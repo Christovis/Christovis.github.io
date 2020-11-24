@@ -1,12 +1,12 @@
 # Site Info
-title:              "The Plain Academic"
+title:              "My Personal Website"
 description:        "My academic site"
 author_name:        "Breno Viana" # change this to your name
 logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://christovis.github.io/
-baseurl:            /the-plain-academic
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
