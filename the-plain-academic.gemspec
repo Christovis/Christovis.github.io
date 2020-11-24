@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
 	spec.email         = ["brenoviana@lcc.ufrn.br"]
 
 	spec.summary       = "A minimalist Jekyll theme for academics"
-	spec.homepage      = "https://github.com/brenov/the-plain-academic"
+	spec.homepage      = "https://christovis.github.io/"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"
