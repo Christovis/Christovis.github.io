@@ -2,7 +2,7 @@
 title: Lorem Ipsum
 type: blog
 date: 2015-09-06
-imageurl: /the-plain-academic/assets/preview-mycat.png
+imageurl: /the-plain-academic/assets/preview-mycat.jpg
 authors: Someone
 ---
 
