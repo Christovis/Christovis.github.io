@@ -2,7 +2,6 @@
 title:              "My Personal Website"
 description:        "My academic site"
 author_name:        "Breno Viana" # change this to your name
-#logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 logo_url:           /assets/selfie_drawing_1.png
 
 # Site Settings
