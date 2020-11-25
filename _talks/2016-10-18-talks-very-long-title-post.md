@@ -2,7 +2,7 @@
 title: For Example of very Long Title Would Be Typography Elements in One
 type: talks
 date: 2016-10-18
-imageurl: /assets/preview_lensing.png
+imageurl: /assets/preview_lensing.jpg
 authors: Someone
 ---
 
