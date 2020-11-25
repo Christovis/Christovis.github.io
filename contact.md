@@ -3,6 +3,5 @@ layout: page
 title: Contact
 ---
 
-- E-mail: your e-mail
-- GitHub: your GitHub account
-- or on twitter...
+- E-mail: chrbecker01@gmail.com
+- GitHub: Christovis
