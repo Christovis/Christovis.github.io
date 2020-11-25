@@ -2,7 +2,7 @@
 title: Download this Theme
 type: blog
 date: 2015-09-09
-imageurl: /the-plain-academic/assets/preview-mycat.jpg
+imageurl: /assets/preview_agn.jpg
 authors: Someone
 ---
 

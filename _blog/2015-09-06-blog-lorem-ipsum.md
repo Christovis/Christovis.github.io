@@ -2,7 +2,7 @@
 title: Lorem Ipsum
 type: blog
 date: 2015-09-06
-imageurl: /assets/preview-mycat.jpg
+imageurl: /assets/peview_adventure.jpg
 authors: Someone
 ---
 
