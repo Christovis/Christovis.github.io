@@ -1,6 +1,6 @@
 ---
 title: For Example of very Long Title Would Be Typography Elements in One
-type: researches
+type: research
 date: 2016-10-18
 imageurl: /assets/preview_lensing.jpg
 authors: Someone
