@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Blog
+title: Essays
 ---
 
 <section>
 
 	<div class="center">
-		<h1 class="title">Blog</h1>
+		<h1 class="title">Essays</h1>
 	</div>
 
 	<div class="divider"></div>
 
-	{% assign sorted = (site.blog | sort: date) | reverse %}
+	{% assign sorted = (site.essay | sort: date) | reverse %}
 	{% for post in sorted %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>

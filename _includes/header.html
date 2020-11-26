@@ -40,11 +40,11 @@
 		{% else %}
 			<li style="font-weight:bold;"> <a> Talks </a> </li>
 		{% endif %}
-		{% if page.url != '/blog' %}
-			{% assign link = '/blog' %}
-			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Blog </a> </li>
+		{% if page.url != '/essay' %}
+			{% assign link = '/essay' %}
+			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Essays </a> </li>
 		{% else %}
-			<li style="font-weight:bold;"> <a> Blog </a> </li>
+			<li style="font-weight:bold;"> <a> Essays </a> </li>
 		{% endif %}
 		{% if page.url != '/contact' %}
 			{% assign link = '/contact' %}

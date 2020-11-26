@@ -1,9 +1,9 @@
 ---
 title: Lorem Ipsum
-type: blog
+type: essay
 date: 2015-09-06
 imageurl: /assets/peview_adventure.jpg
-authors: Someone
+authors: Christoph Becker
 ---
 
 ### The standard Lorem Ipsum passage, used since the 1500s

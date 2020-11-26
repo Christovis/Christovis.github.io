@@ -34,9 +34,9 @@ collections:
   talks:
     output: true
     permalink: /talks/:name
-  blog:
+  essay:
     output: true
-    permalink: /blog/:name
+    permalink: /essay/:name
 
 defaults:
   -
@@ -71,6 +71,6 @@ defaults:
       layout:       "post"
   -
     scope:
-      type:         "blog"
+      type:         "essay"
     values:
       layout:       "post"
