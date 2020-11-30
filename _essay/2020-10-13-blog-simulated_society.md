@@ -47,11 +47,11 @@ optimise the flow of cars. In other words, ML influences society by affecting it
 members (bottom-up), ABM influences members by affecting their society (top-down).
 An algorithm can be brought into any composition imagined by its creator, various
 ways of how ML and ABM can work together have surfaced. Firstly, before running a
-ABM, ML can derive parameter values which will serve as agent attributes
-\cite{kavak2018big}. Secondly, during the execution of a ABM, ML can allow agents
-to learn from past experiences and make more informed decisions via reinforcement
-learning \cite{taylor2016agent,ramchandani2017incorporating,BrearcliffeABMML}.
-Thirdly, ML can be used to analyse results of a ABM \cite{heppenstall2007genetic}.
+ABM, ML can derive parameter values which will serve as agent attributes [[8]](#8).
+Secondly, during the execution of a ABM, ML can allow agents to learn from past
+experiences and make more informed decisions via reinforcement learning
+[[9]](#9), [[10]](#10), [[11]](#11).
+Thirdly, ML can be used to analyse results of a ABM [[12]](#12).
 Hence we can conclude, that every stage of an ABM can be set in composition with ML.
 
 Since events such as the Cambridge Analytica scandal or Lee Sedols loss against
@@ -111,3 +111,28 @@ Informatics in Medicine Unlocked, 20, 100403,.
 <a id="7">[7]</a>
 Ferguson, N. et al. (2020).
 Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand.
+
+<a id="8">[8]</a>
+Kavak, H. et al. (2018).
+Big data, agents, and machine learning: towards a data-driven agent-based modeling approach.
+In Proceedings of the Annual Simulation Symposium, 1-12.
+
+<a id="9">[9]</a>
+Taylor, Richard and Besa, M{\`o}nica Coll and Forrester, John (2016).
+Agent-based modelling: A tool for addressing the complexity of environment and development policy issues.
+Stockholm Environment Institute.
+
+<a id="10">[10]</a>
+Ramchandani, Pia and Paich, Mark and Rao, Anand (2017).
+Incorporating Learning into Decision Making in Agent Based Models.
+In EPIA Conference on Artificial Intelligence, 789-800, Springer, Cham.
+
+<a id="11">[11]</a>
+K. Brearcliffe, Dale and Crooks, Andrew (2020).
+Creating Intelligent Agents: Combining Agent-Based Modeling with Machine Learning.
+In The 2020 Computational Social Science Society of Americas Conference.
+
+<a id="12">[12]</a>
+Heppenstall, Alison J and Evans, Andrew J and Birkin, Mark H (2007).
+Genetic algorithm optimisation of an agent-based model for simulating a retail market.
+Environment and Planning B: Planning and Design, 34(6), 1051-1070.

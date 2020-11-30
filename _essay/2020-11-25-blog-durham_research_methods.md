@@ -6,6 +6,8 @@ imageurl: /assets/peview_adventure.jpg
 authors: Christoph Becker
 ---
 
+Claude E. Shannon [[1]](#1)
+
 ### Machine Learning
 
 ## ML in Durham
@@ -35,3 +37,8 @@ investigates surveillance in digitalization of learning in classroom environment
 
 99% is done in python with libraries such as PyTorch and TensorFlow, thus skills
 in this language are essential (Jonathan Frawley gives a course on it).
+
+<a id="1">[1]</a>
+Shannon, Claude E. (1956).
+The Bandwagon.
+IRE Transactions on Information Theory, 2(1), 3.
