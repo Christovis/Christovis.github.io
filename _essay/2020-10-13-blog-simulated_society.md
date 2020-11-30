@@ -34,8 +34,8 @@ systems lens to guide policies in e.g. transportation to reduce traffic and publ
 health by understanding the social and environmental determinants of well being
 [[2]](#2),[[3]](#3),[[4]](#4). Now, propelled by the COVID-19
 pandemic, ABM has been brought into the spotlight through its insights of the
-viral spread in buildings, cities (e.g. \cite{gharakhanlou2020spatio,zhang2020impact}),
-and countries (e.g. \cite{ferguson2020report} which has caused UKs policy shift
+viral spread in buildings, cities (e.g. [[5]](#5), [[6]](#6)),
+and countries (e.g. [[7]](#7) which has caused UKs policy shift
 away from herd immunity). Now on stage, it will likely accelerate the already
 existing trend of increased utilisation of ABM as apparent from the statistics
 of the Journal of Artificial Societies and Social Simulation ([JASSS](http://jasss.soc.surrey.ac.uk/stats/statistics.html))
@@ -98,6 +98,16 @@ Silverman, E. et al. (2020).
 Situating Agent-Based Modelling in Population Health Research.
 pre-print on arxiv:2002.02345.
 
-<a id="4">[4]</a>
+<a id="5">[5]</a>
+Zhan, Nan et al. (2020).
+Impact of intervention methods on COVID-19 transmission in Shenzhen.
+Building and environment, 180, 107106.
+
+<a id="6">[6]</a>
+Gharakhanlou, Navid Mahdizadeh and Hooshangi, Navid (2020).
+Spatio-temporal simulation of the novel coronavirus (COVID-19) outbreak using the agent-based modeling approach (case study: Urmia, Iran).
+Informatics in Medicine Unlocked, 20, 100403,.
+
+<a id="7">[7]</a>
 Ferguson, N. et al. (2020).
 Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand.
