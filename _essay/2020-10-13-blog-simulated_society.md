@@ -32,14 +32,14 @@ Since its first successful application within the social sciences in 1971
 [[1]](#1), it is seen as a useful tool for applying a complex
 systems lens to guide policies in e.g. transportation to reduce traffic and public
 health by understanding the social and environmental determinants of well being
-\cite{Li2016AB,tracy2018agent,2020arXiv200202345S}. Now, propelled by the COVID-19
+[[2]](#2),[[3]](#3),[[4]](#4). Now, propelled by the COVID-19
 pandemic, ABM has been brought into the spotlight through its insights of the
 viral spread in buildings, cities (e.g. \cite{gharakhanlou2020spatio,zhang2020impact}),
 and countries (e.g. \cite{ferguson2020report} which has caused UKs policy shift
 away from herd immunity). Now on stage, it will likely accelerate the already
 existing trend of increased utilisation of ABM as apparent from the statistics
-of the 'Journal of Artificial Societies and Social Simulation' \cite{JASSS2020MR},
-and recognition as \cite{walport2018computational,2020arXiv200202345S,matthew2020wmi}.
+of the Journal of Artificial Societies and Social Simulation ([JASSS](http://jasss.soc.surrey.ac.uk/stats/statistics.html))
+and recognition as [UK govt](https://www.gov.uk/government/publications/computational-modelling-blackett-review) and the [IEEE](https://spectrum.ieee.org/artificial-intelligence/medical-ai/why-modeling-the-spread-of-covid19-is-so-damn-hard).
 
 By placing ABM in juxtaposition to ML, we can see how each affects the society
 from opposing ends: while ML can optimise the behaviour of a single car, ABM can
@@ -67,9 +67,37 @@ in developing algorithms and handling data, my insight to explore theme III is
 the most developed compared to the other two
 (it might of course also be the most researched theme).
 
+1. Artificial society redefines societies agency
+    - How does our participation in the decision making process change, when government policies rely ever more on outcomes of a artificial society?
+    - How will an artificial society change cultural evolution differently from ML, as the prior is exerting power on an individual, that is less visible to it?
+2. Malicious exploits of artificial societies
+    - Will data privacy need to be extended from a individual to a society?
+    - As it can be argued that any governmental attempts of evidence-based policy are hindered by its virtue to capture and control knowledge, in what circumstances do artificial societies produce policy-based evidence?
+3. The current state of design and usage of standards
+    - How do data analysts interpret/view data, that is gaining political sensitivity in states of emergencies?
+    - What effect do the guidelines and standards have on algorithmic solution in state of emergencies? (E.g. how did the efforts of IEEE, ISO, The Open Modeling Foundation, and the Government Office for Science influence the creation of algorithmic solutions w.r.t. Covid-19)
 
 ## References
 <a id="1">[1]</a>
 Schelling, T. C. (1971).
 Dynamic models of segregation.
 Journal of Mathematical Sociology, 1(2), 143-186.
+
+<a id="2">[2]</a>
+Li, Y et al. (2016).
+Agent-Based Modeling of Chronic Diseases: A Narrative Review and Future Research Directions.
+Preventing Chronic Disease, 13.
+
+<a id="3">[3]</a>
+Tracy, M. et al. (2018).
+Agent-based modeling in public health: current applications and future directions.
+Annual Review of Public Health, 39, 77-94.
+
+<a id="4">[4]</a>
+Silverman, E. et al. (2020).
+Situating Agent-Based Modelling in Population Health Research.
+pre-print on arxiv:2002.02345.
+
+<a id="4">[4]</a>
+Ferguson, N. et al. (2020).
+Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand.
