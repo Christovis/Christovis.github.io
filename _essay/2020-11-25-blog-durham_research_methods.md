@@ -6,11 +6,20 @@ imageurl: /assets/peview_adventure.jpg
 authors: Christoph Becker
 ---
 
-## ML in Durham
-Machine Learning (ML) has, in the last decade become something of a scientific bandwagon. Starting as a theoretical work in the departments of computer science and mathematics, it has since toured through most campus parts of many universities in the world, with many gigs having led to new insights and breakthroughs on a wide range of topics. Durham University, being proud of having one of the leading music departments in the UK [^1], is hosting leading scientists in their field which add their compositions to this trend helping to improve our understanding of both their field and ML itself. Examples are in Psychology, where [Ulrik Beierholm](https://www.dur.ac.uk/psychology/staff/profile/?id=14641) is using reinforcement learning to model how the nervous system deals with uncertainty. Although ML methods are infamous for being black boxes, when it comes to Neuroscience they are still easier to study than a brain. In the department of Archaeology, [Michelle W. De-Gruchy](https://www.dur.ac.uk/archaeology/staff/?id=8883) applies ML to map soil types on aerial photography or satellite imagery. These are just two examples of ...
+# ML in Durham
+Machine Learning (ML) has, in the last decade become something of a scientific bandwagon. Starting as a theoretical work in the departments of computer science and mathematics, it has since toured through most campus parts of many universities, where its performances have led to new insights and breakthroughs on a wide range of topics. During this week's Research Methods Conversation the focus was on how ML is and can be used by academics and the Universities management, and what ethical and methodological difficult could arise.
 
 
-## Pitfalls
+Durham University, proud of having one of the leading music departments in the UK, is employing talented scientists that have and are starting to contribute with their ML inspired algorithmic compositions to the advances of their field [^1]. [Ulrik Beierholm](https://www.dur.ac.uk/psychology/staff/profile/?id=14641), of the department of Psychology, explained how he is using reinforcement learning (an area of ML where models are trained to make decisions in an uncertain, complex environment) to model how the nervous system deals with uncertainty. This path of research holds much potential as connections between ML and the cognitive system have been published (e.g. [Yamins, D.L.K. et al. 2014](https://www.pnas.org/content/111/23/8619)), as the algorithm is easier to analyse than a brain.
+Another exciting project which was brought up by [Michelle W. De-Gruchy](https://www.dur.ac.uk/archaeology/staff/?id=8883), who works in the department of Archaeology, is her collaboration with the Institute of Data Science to use ML to map soil types on aerial photography or satellite imagery.
+
+
+# Pitfalls
+However, the ML bandwagon found a bigger resonance on stages outside of the universities. As neoliberal policies from 80's have completed the dismantling of public and private monopolies over telecommunications networks and digital technologies, data flows have profoundly intensified ([Bigo, R., Isin, E., Ruppert E. 2017](https://www.routledge.com/Data-Politics-Worlds-Subjects-Rights/Bigo-Isin-Ruppert/p/book/9781138053267)). Shortly thereafter, research into ML has shifted in the 90's from a knowledge- to a data-driven approach to reasoning, which led to Deep Blue winning against Garry Kasparov and transformed data into the new oil of the digital economy.
+
+
+While ..., ML has gained prominence across consumer, business, scientific and government sectors, often as a 'buzzword' propelling new forms of policies and governance. Seldom do more than a few of nature's secrets give way at one time. It will be all too easy for our somewhat artificial prosperity to collapse overnight when it is realized that the use of a few exciting 'buzzwords' do not solve all our problems.
+
 "As a consequence, it has perhaps been ballooned to an importance beyond" its
 actual capabilities [[1]](#1).
 [Data shift and underspecification](https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/). Data shift describes the mismatch between the data the ML was trained and tested on and the data it encounters in the real world. This problem is almost ubiquitous in all ML applications and something social scientists are very familiar with as we have learned in our previous [conversation of the replication crisis](https://researchmethodsconversations.blogspot.com/2020/10/research-methods-conversations.html)
