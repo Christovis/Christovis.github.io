@@ -2,7 +2,7 @@
 title: Proca-stinated Cosmology II - Matter, Halo, and Lensing Statistics in the vector Galileon
 type: research
 date: 2020-11-03
-imageurl: /assets/preview_lensing.jpg
+imageurl: /assets/preview_research_galileon.jpg
 authors: Christoph Becker
 status: submitted
 ---

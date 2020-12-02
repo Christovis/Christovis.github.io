@@ -2,7 +2,7 @@
 title: Proca-stinated Cosmology I - A N-body code for the vector Galileon
 type: research
 date: 2020-07-06
-imageurl: /assets/preview_lensing.jpg
+imageurl: /assets/preview_research_galileon.jpg
 authors: Christoph Becker
 status: accepted
 ---

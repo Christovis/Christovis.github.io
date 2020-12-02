@@ -19,19 +19,15 @@ However, the ML bandwagon found a bigger resonance on stages outside of the univ
 
 A common problem of ML models is that they can be tuned and tweaked to near-perfect [performance in the lab](https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/) often fail in real settings. This is typically put down to a mismatch between the data the ML model was trained and tested on and the data it encounters in the world, a problem known as _data shift_. Now another issue, known as _underspecification_ in statistics, has been brought to light by [Google](https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/). In contrast to the data shift, underspecification describes a problem with the way that ML models are currently trained and tested.
 
-As participants shared their thoughts on the dissonance between lab and real world performances of ML models and their ethicopolitical existence, the conversation found itself in a refrain of points made in the conversation on '[Data Science and Social Science Theory](https://researchmethodsconversations.blogspot.com/2020/11/data-science-and-social-science-theory.html)' (e.g. the risks that "pre-existing data sets could reinforce systems of bias and privilege"). The need for a "human in the loop" with expert knowledge was emphasized, while it was also realized that this human is an impossible figure when one considers the entanglement of the expert, algorithm, training and real world data, as detailed in 'Cloud Ethics' by L. Amoore (2020).
-
+As participants shared their thoughts on the dissonance between lab and real world performances of ML models and their ethicopolitical existence, the conversation found itself in a refrain of points made in the conversation on '[Data Science and Social Science Theory](https://researchmethodsconversations.blogspot.com/2020/11/data-science-and-social-science-theory.html)' (e.g. the risks that "pre-existing data sets could reinforce systems of bias and privilege"). The need for a "human in the loop" with expert knowledge was emphasized, while it was also realized that this human is an impossible figure when one considers the entanglement of the expert, algorithm, training and real world data, as detailed in '[Cloud Ethics](https://www.dukeupress.edu/cloud-ethics)' by L. Amoore (2020).
 
 On this topic the important work of [Noura Al Moubayed](https://www.dur.ac.uk/research/directory/staff/?id=14675), from the department of Computer Science, was mentioned. She is working to improve the explainability of ML outcomes. Advances in this direction would open up the _black box_ and improve the interpretability, hence making them more trustworthy.
 
+### Responsibility
 
-
-## Responsibility
-[Alexandra Cristea](https://www.dur.ac.uk/research/directory/staff/?id=17167) is working on ethics in ML. [Noura Al Moubayed](https://www.dur.ac.uk/research/directory/staff/?id=14675) is currently working on explainability of ML in the department of CS. [Michelle W. De-Gruchy](https://www.dur.ac.uk/archaeology/staff/?id=8883) remote sensing of soil maps mapping.
+[Alexandra Cristea](https://www.dur.ac.uk/research/directory/staff/?id=17167) is working on ethics in ML.
 
 [Harsh Bajpai](https://www.dur.ac.uk/directory/profile/?id=19043) investigates surveillance in digitalization of learning in classroom environments (pupils, teachers, administrators,...) [Surveillance on students raise privacy concerns on Online Education Platforms](https://www.theleaflet.in/surveillance-on-students-raise-privacy-concerns-on-online-education-platforms/#).
-
-Work on machine learning shifts from a knowledge-driven approach to a data-driven approach.  Scientists begin creating programs for computers to analyze large amounts of data and draw conclusions — or “learn” — from the results. the term “data driven” to refer to machine and deep learning models, whereas “knowledge driven” will refer to constraint-based models.
 
 "As a consequence, it has perhaps been ballooned to an importance beyond" its actual capabilities [[1]](#1).
 
