@@ -2,7 +2,7 @@
 title: Simulated Societies
 type: essay
 date: 2020-10-13
-imageurl: /assets/peview_adventure.jpg
+imageurl: /assets/preview_ai.jpg
 authors: Christoph Becker
 ---
 
