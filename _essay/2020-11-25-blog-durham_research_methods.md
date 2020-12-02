@@ -6,7 +6,7 @@ imageurl: /assets/peview_adventure.jpg
 authors: Christoph Becker
 ---
 
-# ML in Durham
+### ML in Durham
 Machine Learning (ML) has, in the last decade become something of a scientific bandwagon. Starting as a theoretical work in the departments of computer science and mathematics, it has since toured through most campus parts of many universities, where its performances have led to new insights and breakthroughs on a wide range of topics. During this week's Research Methods Conversation the focus was on how ML is and can be used by academics and the Universities management, and what ethical and methodological difficult could arise.
 
 
@@ -14,7 +14,7 @@ Durham University, proud of having one of the leading music departments in the U
 Another exciting project which was brought up by [Michelle W. De-Gruchy](https://www.dur.ac.uk/archaeology/staff/?id=8883), who works in the department of Archaeology, is her collaboration with the Institute of Data Science to use ML to map soil types on aerial photography or satellite imagery.
 
 
-# Pitfalls
+### Pitfalls
 However, the ML bandwagon found a bigger resonance on stages outside of the universities. As neoliberal policies from 80's have completed the dismantling of public and private monopolies over telecommunications networks and digital technologies, data flows have profoundly intensified ([Bigo, R., Isin, E., Ruppert E. 2017](https://www.routledge.com/Data-Politics-Worlds-Subjects-Rights/Bigo-Isin-Ruppert/p/book/9781138053267)). Shortly thereafter, research into ML has shifted in the 90's from a knowledge- to a data-driven approach to reasoning, which led to Deep Blue winning against Garry Kasparov and transformed data into the new oil of the digital economy.
 
 
