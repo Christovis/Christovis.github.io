@@ -7,9 +7,10 @@ authors: Christoph Becker
 status: accepted
 ---
 
+Publication: [arxiv:2007.03042](https://arxiv.org/pdf/2007.03042.pdf)
+Code: [ECOSMOG-cvG](https://github.com/Christovis/ecosmog-cvg)
+
 ## Abstract
 
 We investigate the nonlinear growth of large-scale structure in the generalised Proca theory, in which a self-interacting massive vector field plays the role of driving the acceleration of the cosmic expansion. Focusing to the Proca Lagrangian at cubic order -- the cubic vector Galileon model -- we derive the simplified equations for gravity as well as the longitudinal and transverse modes of the vector field under the weak-field and quasi-static approximations, and implement them in a modified version of the _ECOSMOG_ $$N$$-body code. Our simulations incorporate the Vainshtein screening effect, which reconciles the fifth force propagated by the longitudinal mode of the cubic vector Galileon model with local tests of gravity. The results confirm that for all scales probed by the simulation, the transverse mode has a negligible impact on structure formation in a realistic cosmological setup. It is well known that in this model the strength of the fifth force is controlled by a free model parameter, which we denote as $$\tilde{\beta}_3$$. By running a suite of cosmological simulations for different values of $$\tilde{\beta}_3$$, we show that this parameter also determines the effectiveness of the Vainshtein screening. The model behaves identically to the cubic scalar Galileon for $$\tilde{\beta}_3 \to 0$$, in which the fifth force is strong in unscreened regions but is efficiently screened in high-density regions. In the opposite limit, $$\tilde{\beta}_3 \to \infty$$, the model approaches its `quintessence' counterpart, which has a vanishing fifth force but a modified expansion history compared to $$\Lambda$$CDM. This endows the model with rich phenomenology, which will be investigated in future works.
 
-
-[arxiv:2007.03042](https://arxiv.org/pdf/2007.03042.pdf)
