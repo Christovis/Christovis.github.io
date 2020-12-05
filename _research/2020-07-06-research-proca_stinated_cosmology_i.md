@@ -7,7 +7,7 @@ authors: Christoph Becker
 status: accepted
 ---
 
-Publication: [arxiv:2007.03042](https://arxiv.org/pdf/2007.03042.pdf)
+Publication: [arxiv:2007.03042](https://arxiv.org/pdf/2007.03042.pdf)<br />
 Code: [ECOSMOG-cvG](https://github.com/Christovis/ecosmog-cvg)
 
 ## Abstract
