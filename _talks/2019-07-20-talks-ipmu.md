@@ -1,13 +1,13 @@
 ---
-title: IPMU Friday Seminar
+title: IPMU Friday Seminar - Measuring H_0 with strong lenses
 type: talks
 date: 2019-07-20
-imageurl: /assets/preview-mycat.png
+imageurl: /assets/
 author: Christoph Becker
 ---
 
-### Measuring H_0 with strong lenses
-[slides](https://slides.com/christovis/the-scalar-tensor-theory-of-gravitation-5)
+Slides are [here](https://slides.com/christovis/the-scalar-tensor-theory-of-gravitation-5).
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### Abstract
 
+$$H_0$$ is one of the critical cosmological parameters, but recently a mismatch of the measured $$H_0$$ between distant universe (Planck) and the local universe (GAIA) has been found. Therefore, additional independent approaches for measuring H0 are required to understand the problem. Strong lensing systems with multiple lensed various objects provide a unique way to measure H0, but the line-of-sight effects due to seconadry lenses on the constraint of $$H_0$$ needs to be understood, especially in the era of LSST, which will reveal thousands of strong lensed various objects. In this talk, I present some results by adopting semi-analytic light-cones based the Out Rim Simulation to implement multiple lens plane ray-tracing simulations, of 1000 double and 400 quadruple lensing systems for the scenarious with and without line-of-sight halos.
