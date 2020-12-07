@@ -1,7 +1,7 @@
 ---
-title: Durham Research Methods Conversations - Machine Learning
+title: Thoughts on the Data Narrative
 type: essay
-date: 2020-11-25
+date: 2020-09-20
 imageurl: /assets/preview_ai.jpg
 authors: Christoph Becker
 ---
