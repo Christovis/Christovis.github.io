@@ -74,7 +74,7 @@ importance, I have started to think about the following three broad themes:
     - How do data analysts interpret/view data, that is gaining political sensitivity in states of emergencies?
     - What effect do the guidelines and standards have on algorithmic solution in state of emergencies? (E.g. how did the efforts of IEEE, ISO, The Open Modeling Foundation, and the Government Office for Science influence the creation of algorithmic solutions w.r.t. Covid-19)
 
-## References
+### References
 <a id="1">[1]</a>
 Schelling, T. C. (1971).
 Dynamic models of segregation.
