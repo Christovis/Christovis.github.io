@@ -1,5 +1,5 @@
 ---
-title: IDAS Seminar - State of the Art in Fair ML: From Moral Philosophy and Legislation to Fair Classifiers
+title: IDAS Seminars - State of the Art in Fair ML: From Moral Philosophy and Legislation to Fair Classifiers
 type: talks
 date: 2019-04-02
 imageurl: /assets/
