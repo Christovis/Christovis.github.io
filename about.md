@@ -34,5 +34,3 @@ I regularly use the following technologies:
 I also have a strong understanding of the scientific stack, SciPy
 (including numpy, matplotlib, and pandas). I utilise these tools everyday to
 handle big data produced by cosmological simulations of the universe.
-
-**Less is more..**
