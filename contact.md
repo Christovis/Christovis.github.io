@@ -4,4 +4,4 @@ title: Contact
 ---
 
 - E-mail: chrbecker01@gmail.com
-- GitHub: Christovis
+- GitHub: [Christovis](https://github.com/Christovis)
