@@ -1,7 +1,7 @@
 ---
 title: Epidemics with FluTE - An agent-based model of society
 type: talks
-date: 2020-01-05
+date: 2020-05-01
 imageurl: /assets/preview_ai.jpg
 authors: Christoph Becker
 ---
