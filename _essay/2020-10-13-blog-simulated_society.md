@@ -62,10 +62,7 @@ applicable to algorithms and data in general. However, there are stronger and
 fainter nuances that pose algorithms and data differentiable. These nuances can
 only be discovered and understood, by tuning the questions to each algorithm
 individually. As it is my impression that simulations of societies gain in
-importance, I have started to think about three broad themes. With my experience
-in developing algorithms and handling data, my insight to explore theme III is
-the most developed compared to the other two
-(it might of course also be the most researched theme).
+importance, I have started to think about the following three broad themes:
 
 1. Artificial society redefines societies agency
     - How does our participation in the decision making process change, when government policies rely ever more on outcomes of a artificial society?
