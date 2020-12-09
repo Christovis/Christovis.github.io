@@ -17,4 +17,6 @@ We use the state-of-the-art cosmological, magnetohydrodynamical IllustrisTNG (TN
 
 ![dendogram](https://github.com/Christovis/christovis.github.io/blob/master/assets/talk_gahaco_dendo_cm.png)
 
+![Minion](http://octodex.github.com/images/minion.png)
+
 _Left_: Dendogram of halo properties. _Right_: Correlation matrix. Halo properties with red boxes are chosen for the final model.
