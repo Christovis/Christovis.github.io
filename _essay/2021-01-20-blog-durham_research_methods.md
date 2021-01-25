@@ -6,7 +6,7 @@ imageurl: /assets/preview_ai_africa.jpg
 authors: Christoph Becker
 ---
 
-> This blog post was written for the [Durham Research Methods Conversations](https://www.dur.ac.uk/researchmethodscentre/community/rmcafe/rmconversations/) about the conversation I was steering on decolonizing artificial intelligence can also be found ....
+> This blog post is on a conversation I was steering for the [Durham Research Methods Conversations](https://www.dur.ac.uk/researchmethodscentre/community/rmcafe/rmconversations/).
 
 Last years killings of George Floyd, Breonna Taylor, and all too many others was followed by the resurgence of the #BlackLivesMatter movement. Given these critical events, we as researchers and as members of a research institute paused to reflect on how our work speaks to the urgent injustices. Events such as [#ShutDownSTEM, #ShutDownAcademia](https://www.shutdownstem.com/) and the annual [black history month](https://www.dur.ac.uk/equality.diversity/blackhistorymonth18/) were organized to education oneself on matters such as racial bias. However, there is no such things as mastery of inequality. Those who hold positions of privilege - like us - are constantly learning how to challenge power and eradicate the systemic nature of racism. Thus, to "[stay with the trouble]((https://read.dukeupress.edu/books/book/27/Staying-with-the-TroubleMaking-Kin-in-the)," as feminist philosopher Donna Haraway would say, this conversation should be seen as the first in a series that motivates engagement with this critical topic.
 
