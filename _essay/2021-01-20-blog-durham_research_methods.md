@@ -1,0 +1,39 @@
+---
+title: Durham Research Methods Conversations - Decolonizing Artificial Intelligence
+type: essay
+date: 2021-01-20
+imageurl: /assets/preview_ai_africa.jpg
+authors: Christoph Becker
+---
+
+> This blog post was written for the [Durham Research Methods Conversations](https://www.dur.ac.uk/researchmethodscentre/community/rmcafe/rmconversations/) about the conversation I was steering on decolonizing artificial intelligence can also be found ....
+
+Present Departments:
+Bioscience
+Marketing & Management
+Physics
+Engineering
+Social Science
+Computer Science
+Education
+University Lib. and Collection
+Anthropology
+
+Last years killings of George Floyd, Breonna Taylor, and all too many others was followed by the resurgence of the #BlackLivesMatter movement. Given these critical events, we as researchers and as members of a research institute paused to reflect on how our work speaks to the urgent injustices. Events such as [#ShutDownSTEM, #ShutDownAcademia](https://www.shutdownstem.com/) and the annual [black history month](https://www.dur.ac.uk/equality.diversity/blackhistorymonth18/) were organized to education oneself on matters such as racial bias. However, there is no such things as mastery of inequality. Those who hold positions of privilege - like us - are constantly learning how to challenge power and eradicate the systemic nature of racism. Thus, to "[stay with the trouble]((https://read.dukeupress.edu/books/book/27/Staying-with-the-TroubleMaking-Kin-in-the)," as feminist philosopher Donna Haraway would say, this conversation should be seen as the first in a series that motivates engagement with this critical topic.
+
+In this first instalment we tried to understand the colonial mechanisms of power, economics, language, culture, and thinking that influence the design, development, and deployment of artificial intelligence (AI) models<sup> We used the term 'AI' as an umbrella term that includes the field of machine learning. While the broader field of AI includes both symbolic (classical AI or GOFAI) and conectionist (e.g., artificial neural networks) research, the field of machine learning can be defined by research on more tractable machine tasks leveraging techniques at the intersection of computer science and statistical inference.</sup> and the data they depend on. The conversation was attended by many of the STEM subjects as well as anthropology and education to name put a few.
+
+Hitherto, scholars within the post-colonial and decolonial studies have identified three main places of action where change can be brought about. The first place was identified by [Morgan Ndlovu](https://escholarship.org/uc/item/7xf4w6v7), who recognized that universities in Africa are asking themselves 'whether they are "African universities" or merely Westernized universities on the African continent'. His response to this identity crisis is a _decentralization_ of the 'Western epistemic centres'. One participant noticed, that especially UK universities are ambitious to either open new institutions abroad or attract foreign students, a trend that has been encouraged by the government [Jamie Doward 2020](https://www.theguardian.com/education/2020/apr/11/stop-spending-millions-on-for-profit-schools-abroad-campaigners-tell-uk). An interesting point came up while searching for subjects that could be taught across cultures. Here mathematics was imagined to be a save haven, meaning that it can be taught by anyone to anyone by virtue of its expressions being universally true. However, even within the abstract world of mathematics do we have to acknowledge the significance of the difference in, i.e. Yoruban and Western counting practices, as [Helen Verran](https://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html) observed in her work as a mathematics lecturer and teacher in Nigeria. It is important to understand the subjects history and to adapt 'the goals, content, and methods of mathematics education [...] to the cultures and needs of the African peoples' ([Paulus Gerdes 1994](https://www.sciencedirect.com/science/article/pii/S0315086084710299)).
+
+The second place asks for _additive-inclusion_ of existing knowledge with new and alternative approaches, by recognizing explicitly their value. The aim is to create an environment, in which new ways of creating knowledge can genuinely flourish. In this context the discipline of computer vision was mentioned. As a participant pointed out, the unspoken paradigm called "vision as inverse graphics", meaning that everything is in a perfect perspective projection as in, i.e. a photograph, is often followed while other approaches are rarely acknowledged. It was pointed out that this paradigm only developed in the last 500 years of Western cultures, rendering its assumption of universality thus far from obvious.
+
+The third and last place is asking us for _engagement_. It calls on us to examine scientific practice from the margins and place the needs of marginalised populations at the centre of the design and research process. Important questions that can guide this engagement are: where knowledge comes from, who is included and left out, whose interest is followed, who is silenced, and what unacknowledged assumptions might be at play. Here, a participant mentioned their research on racial bias within face recognition. When asking who is left out of commercially available facial analysis tasks, it was found that Uber locked out transgender drivers from being able to access their accounts to begin work ([S. Melendez 2018](https://www.fastcompany.com/90216258/uber-face-recognition-tool-has-locked-out-some-transgender-drivers)). However, a difficulty that can arise when trying to improve facial recognition of minority groups within an originally imbalanced training dataset, is to avoid that encoding of protected attributes. A problem that the participant had to face.
+
+At this point the conversation has thus managed to visit the three most prominent places within the decolonial knowledge landscape (_decentralization_, _additive-inclusion_, _engagement_). Along the way multiple examples were mentioned that showcase how the avoidance of these three places can cause injustice, oppression, and inequity. Instead it might leave us:
+- unaware of the fact that most data labelling relies on a outsourced and under-paid workforce of which the wast majority can be found in the global south ([Madhumita Murgia, 2019](https://www.ft.com/content/56dde36c-aa40-11e9-984c-fac8325aaa04))
+- constructing classifiers based on too many categories or ones that do no exist and
+- using categories of which we do not grasp their ethicopoliticalness
+- with the false idea that bias sits in data but not in the algorithm and that it can be avoided
+- with the impression that more data is better and that technology can be fix itself.
+
+One participants asked the difficult question that is has gained much attention in recent publications on AI: is it possible to create a fair algorithm in an unfair world. It remained unanswered...
