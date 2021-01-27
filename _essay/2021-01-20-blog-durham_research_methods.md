@@ -26,4 +26,4 @@ At this point, the conversation has thus managed to visit the three most promine
 -   with the idea that bias sits in data but not in the algorithm and that it can be avoided
 -   the impression that it is always the case, that more data is better and technology can fix itself
 
-One participant asked the difficult question that is gaining more attention in the AI community: is it possible to create a fair algorithm in an unfair world? As it remained unanswered, we shall ‘stay with the trouble’, continuing the confront the uncomfortable.
+One participant asked the difficult question that is gaining more attention in the AI community: is it possible to create a fair algorithm in an unfair world? As it remained unanswered, we shall ‘stay with the trouble’, continuing to confront the uncomfortable.
