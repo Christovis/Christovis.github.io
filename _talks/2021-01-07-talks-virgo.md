@@ -1,15 +1,14 @@
 ---
-title: Mock Innsbruck - The connection between galaxies and dark matter haloes
+title: Virgo Meeting - Accelerating Cosmic Simulations through Machine Learning
 type: talks
-date: 2020-03-12
+date: 2021-01-07
 imageurl: /assets/
 author: Christoph Becker
 ---
 
+In this years [Virgo](http://www.virgo.dur.ac.uk/) meeting I have moderated the discussion on how machine learning can be used to accelerate simulations.
 
-Slides are [here](https://slides.com/carolcuesta/a-tree-grows-in-illustris-tng-the-galaxy-halo-connection-learnedby-boosted-decision-trees).
-
-My colleague [C. L. Cuesta](https://www.dur.ac.uk/directory/profile/?id=16714) has presented our joint work at this years [Mock conference](https://www.uibk.ac.at/congress/mockinnsbruck/) in Innsbruck.
+My own [work](https://slides.com/carolcuesta/a-tree-grows-in-illustris-tng-the-galaxy-halo-connection-learnedby-boosted-decision-trees), which is done in collaboration with Carolina L. Cuesta, was presented at the 2020 [Mock conference](https://www.uibk.ac.at/congress/mockinnsbruck/) in Innsbruck.
 
 ### Abstract
 
