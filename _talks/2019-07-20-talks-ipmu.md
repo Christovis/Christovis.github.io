@@ -6,7 +6,7 @@ imageurl: /assets/
 author: Christoph Becker
 ---
 
-Slides are [here](https://slides.com/christovis/the-scalar-tensor-theory-of-gravitation-5).
+> Slides are [here](/assets/talks_ipmu_time_delays.html).
 
 ### Abstract
 
