@@ -21,7 +21,9 @@ The programming languages I am most familiar with are listed below:
     - with speed ups via Numba or C and C++ through ctypes and cython
     - machine learning libraries such as PyTorch and TensorFlow
 3. FORTRAN
-4. Matlab
+4. Bash
+5. Matlab
+6. C/C++
 
 I am currently exploring new programming paradigms and concepts with
 1. Scala
