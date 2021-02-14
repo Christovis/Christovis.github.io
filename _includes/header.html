@@ -26,6 +26,12 @@
 		{% else %}
 			<li style="font-weight:bold;"> <a> Research </a> </li>
 		{% endif %}
+		{% if page.url != '/software' %}
+			{% assign link = '/software' %}
+			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Software </a> </li>
+		{% else %}
+			<li style="font-weight:bold;"> <a> Software </a> </li>
+		{% endif %}
 		<!--{% if page.url != '/projects' %}
 			{% assign link = '/projects' %}
 			<li> <a href="{{ link | prepend: site.baseurl | prepend: site.url }}"> Projects </a> </li>
