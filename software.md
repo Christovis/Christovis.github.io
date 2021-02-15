@@ -8,6 +8,10 @@ title: Software
 An open-source framework for the detailed simulation of epidemics on the basis of social interactions in a virtual population constructed from geographically granular census data, reflecting age, sex, ethnicity, and socio-economic indicators. Interactions between individuals are modelled in groups of various sizes and properties, such as households, schools and work-places, and other social activities using social mixing matrices. The individual-based model provides a suite of flexible parameterisations that describe infectious diseases, how they are transmitted and affect contaminated individuals. So far it has been applied to the modelling the spread of COVID-19 in England and to the Kutupalong refugee camp.
 
 
+# <a href="https://github.com/datactive/bigbang">BigBang</a>
+
+BigBang is a tool for scientific analysis of Internet standards development and Internet governance communities. It can scrape public mailing lists (in Mailman and LISTSERV 16.5 formats) and Github messages and ultimately analyze them using statistical, discursive, and network analysis.
+
 # <a href="https://github.com/Christovis/astrild">Astrild</a>
 
 A specialized python package for cosmological simulations based on [RAMSES](https://bitbucket.org/rteyssie/ramses/wiki/Home). This contains extensions such as [ECOSMOG](https://arxiv.org/abs/1110.1379), to study the effects of novel theories that modify GR on large scales and late times. In addition it is possible to explore arrays of simulations in parallel as it is needed for ray-tracing simulations based on [Ray-Ramses](https://arxiv.org/pdf/1601.02012.pdf).
