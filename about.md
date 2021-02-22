@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-> My academic CV is <a href="https://github.com/Christovis/christovis.github.io/blob/master/assets/CB_CV.png">here</a>.
+> My academic CV is <a href="https://github.com/Christovis/christovis.github.io/blob/master/assets/CB_CV.pdf">here</a>.
 
 **Hello,**
 I am a PhD student at the <a href="https://www.dur.ac.uk/idas/">Institute for Data Science</a> and the <a href="http://www.icc.dur.ac.uk/">Institute for Computational Cosmology</a>, and ricipient of the <a href="https://ddis.physics.dur.ac.uk/">STFC/CDT</a> studentship. I am supervised by <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=shpd91">Baojiu Li</a> and <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=lpcb73">Richard Massey</a> and work together with numerous people around the world.
