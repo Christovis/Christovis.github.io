@@ -4,7 +4,7 @@ type: research
 date: 2020-06-23
 imageurl: /assets/preview_strong_lensing.png
 authors: Christoph Becker
-status: submitted
+status: accepted
 ---
 
 Publication: [arxiv:2006.08540](https://arxiv.org/pdf/2006.08540.pdf)<br />
