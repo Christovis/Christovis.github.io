@@ -1,6 +1,7 @@
 _essay/2020-11-25-blog-bandwagon.md
 _research/example_fancy.md
 _site/
+*.xcf
 *.gem
 .sass-cache/
 .vscode/
