@@ -2,8 +2,8 @@
 title:              "My Personal Website"
 description:        "My academic site"
 author_name:        "Christoph Becker"
-logo_url:           /assets/selfie_real_voronoi.jpg
-# logo_url_hover:           /assets/selfie_mix_1.jpg
+logo_url:           /assets/selfie_real_voronoi_outline.jpg
+logo_url_hover:           /assets/selfie_mix_1.jpg
 
 # Site Settings
 url:                https://christovis.github.io/
