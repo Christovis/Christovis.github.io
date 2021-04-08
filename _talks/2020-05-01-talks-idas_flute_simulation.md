@@ -3,6 +3,7 @@ title: IDAS Seminar - An agent-based model of society with FluTE
 type: talks
 date: 2020-05-01
 imageurl: /assets/
+imagedsc: Hello World
 authors: Christoph Becker
 ---
 

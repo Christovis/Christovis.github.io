@@ -3,6 +3,7 @@ title: IPMU Friday Seminar - Measuring H_0 with strong lenses
 type: talks
 date: 2019-07-20
 imageurl: /assets/
+imagedsc: Hello World
 author: Christoph Becker
 ---
 
