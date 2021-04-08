@@ -32,8 +32,13 @@ Hello, I am Christoph Becker, a PhD at the Institute for Computational Cosmology
 				<li>
 					<div class="title">
 						<a href="{{ item.url | prepend: site.baseurl | prepend: site.url }}">
-                            <img src="{{ item.imageurl }}" title="{{ item.imagedsc}}" alt="" style="width: 100%;">
-							{{ item.title }}
+                            <div class="container">
+                                <img src="{{ item.imageurl }}" title="{{ item.imagedsc }}" alt="" style="width: 100%;">
+                                <div class="overlay">
+                                    <div class="imagetext">{{ item.imagedsc }}</div>
+                                </div>
+						    	{{ item.title }}
+                            </div>
 						</a>
 					</div>
 				</li>
