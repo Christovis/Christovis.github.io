@@ -3,6 +3,7 @@ title: Durham Research Methods Conversations - Machine Learning
 type: essay
 date: 2020-11-25
 imageurl: /assets/preview_ai.jpg
+imagedsc: Hello World
 authors: Christoph Becker
 ---
 

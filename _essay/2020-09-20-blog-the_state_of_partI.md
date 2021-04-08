@@ -3,6 +3,7 @@ title: The State of Data-Driven Reasoning - Part I
 type: essay
 date: 2020-09-20
 imageurl: /assets/preview_ai.jpg
+imagedsc: Hello World
 authors: Christoph Becker
 ---
 

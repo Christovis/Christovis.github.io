@@ -3,6 +3,7 @@ title: Durham Research Methods Conversations - Decolonizing Artificial Intellige
 type: essay
 date: 2021-01-20
 imageurl: /assets/preview_ai_africa.jpg
+imagedsc: Hello World
 authors: Christoph Becker
 ---
 

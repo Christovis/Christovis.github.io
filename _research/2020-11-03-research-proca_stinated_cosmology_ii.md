@@ -3,6 +3,7 @@ title: Proca-stinated Cosmology II - Matter, Halo, and Lensing Statistics in the
 type: research
 date: 2020-11-03
 imageurl: /assets/preview_research_galileon.jpg
+imagedsc: Hello World
 authors: Christoph Becker
 status: submitted
 ---

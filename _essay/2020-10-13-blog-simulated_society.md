@@ -3,6 +3,7 @@ title: Simulated Societies
 type: essay
 date: 2020-10-13
 imageurl: /assets/preview_ai.jpg
+imagedsc: Hello World
 authors: Christoph Becker
 ---
 

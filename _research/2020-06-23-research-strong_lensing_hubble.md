@@ -3,6 +3,7 @@ title: The impact of line-of-sight structures on measuring H0 with strong lensin
 type: research
 date: 2020-06-23
 imageurl: /assets/preview_strong_lensing.png
+imagedsc: Hello World
 authors: Christoph Becker
 status: accepted
 ---
