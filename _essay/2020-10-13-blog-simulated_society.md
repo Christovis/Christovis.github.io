@@ -3,7 +3,7 @@ title: Simulated Societies
 type: essay
 date: 2020-10-13
 imageurl: /assets/preview_ai.jpg
-imagedsc: "Anatomy of an AI system" by Vladan Joler and Kate Crawford
+imagedsc: A zoom into the "Anatomy of an AI system" by Vladan Joler and Kate Crawford
 authors: Christoph Becker
 ---
 
