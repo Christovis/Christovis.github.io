@@ -2,8 +2,8 @@
 title: IDAS Seminar - An agent-based model of society with FluTE
 type: talks
 date: 2020-05-01
-imageurl: /assets/
-imagedsc: Hello World
+imageurl: /assets/Kumi+Yamashita_2.jpg
+imagedsc: A zoom into the "CONSTELLATION - MANA no.2 2013" by Kumi Yamashita
 authors: Christoph Becker
 ---
 
