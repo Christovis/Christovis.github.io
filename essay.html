@@ -30,7 +30,13 @@ title: Essays
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-						<img src="{{ post.imageurl }}" alt="" style="width: 100%;">
+                        
+                        <div class="container">
+                            <img src="{{ item.imageurl }}" alt="" style="width: 100%;">
+                            <div class="overlay">
+                                <div class="imagetext">Image description: {{ item.imagedsc }}</div>
+                            </div>
+                        </div>
 						{{ post.title }}
 					</a>
 				</div>
