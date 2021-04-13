@@ -1,6 +1,6 @@
 ---
 title: The State of Data-Driven Reasoning - Part I
-type: essay
+type: essays
 date: 2020-09-20
 imageurl: /assets/preview_ai.jpg
 imagedsc: A zoom into the "Anatomy of an AI system" by Vladan Joler and Kate Crawford

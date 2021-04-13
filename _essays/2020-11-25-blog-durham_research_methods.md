@@ -1,6 +1,6 @@
 ---
 title: Durham Research Methods Conversations - Machine Learning
-type: essay
+type: essays
 date: 2020-11-25
 imageurl: /assets/preview_ai.jpg
 imagedsc: A zoom into "Anatomy of an AI system" by Vladan Joler and Kate Crawford
