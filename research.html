@@ -16,7 +16,7 @@ title: Research
 		<ul>
 			<li>
 				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }} - {{ post.date_end | date_end: "%b %d" }}</span>
+					<span>{{ post.date | date: "%Y" }} - {{ post.date_end | date_end: "%Y" }}</span>
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
