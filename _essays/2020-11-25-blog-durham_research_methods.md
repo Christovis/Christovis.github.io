@@ -7,7 +7,7 @@ imagedsc: A zoom into "Anatomy of an AI system" by Vladan Joler and Kate Crawfor
 authors: Christoph Becker
 ---
 
-> This blog post is on a conversation I was steering for the [Durham Research Methods Conversations](https://www.dur.ac.uk/researchmethodscentre/community/rmcafe/rmconversations/) and can also be found [here](https://researchmethodsconversations.blogspot.com/2020/12/machine-learning.html).
+> This blog post is on a conversation I was steering for the [Research Methods Conversations](https://duracuk-lb01-production.terminalfour.net/research/institutes-and-centres/research-methods/) and can also be found [here](https://researchmethodsconversations.blogspot.com/2020/12/machine-learning.html).
 
 Machine Learning (ML) has, in the last decade become something of a “[scientific bandwagon](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774)”. Starting as theoretical work in the departments of computer science and mathematics, it has since toured through most campus parts of universities, where its performances has led to new insights and breakthroughs on a wide range of topics, an aspect that was reflected by the broad range of participants backgrounds (Computer Science, Archaeology, Psychology, Physics to name but a few) in this week’s Research Methods Conversation, of which the focus was on how ML is and can be used by academics and the Universities management, and what ethical and methodological difficult could arise.
 
