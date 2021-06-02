@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-- University profile: [dur.ac.uk](https://www.dur.ac.uk/research/directory/staff/?id=16482)
+- University profile: [dur.ac.uk](https://www.dur.ac.uk/research/directory/staff/?id=16482) , [uva.nl](https://ibed.uva.nl/profile/b/e/c.becker/c.becker.html?origin=PhBA5%2FeKQZalU1qeDjma3Q)
 - GitHub: [Christovis](https://github.com/Christovis)
 - E-mail: chrbecker01 AT gmail DOT com
 
