@@ -8,4 +8,3 @@ author: Christoph Becker
 ---
 
 > Slides are [here](/assets/LiceoScientificoGalileoGalilei_for_public.pdf).
-
