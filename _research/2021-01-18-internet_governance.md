@@ -13,6 +13,10 @@ This project is motivated by the fact, that discussions about norms and regulati
 
 Results of this project have already been accepted by high impact publishers and journals (see, e.g., [[1]](#1) and [[2]](#2)).
 
+![Contributions in working group 5 to the norms of the Internet of Things](/assets/3GPP_TSG_RAN_WG5_IOT_affiliations.png?raw=true)
+
+![Attributed gender to names of members of the IEEE](/assets/IEEE_gender.png?raw=true)
+
 ### References
 <a id="1">[1]</a>
 ten Oever, N., Milan, S., and Beraldo, D. (2020)
