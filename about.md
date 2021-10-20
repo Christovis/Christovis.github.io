@@ -10,6 +10,7 @@ As part of a interdisciplinary group, I am working on new methodologies:
 - Starting with the creation of conceptual models in the form of causal loop diagrams (CLD) that store qualitative expert knowledge which has been gathered through group model building (GMB).
 - Turning the conceptual model, represented through the CLD, into a computational model, represented though a system dynamics models (SDM).
 - The created SDM can then be further refined by replacing links with more complex computational methods, such as agent-based models (ABM).
+
 These will be developed in the context of the energy transition in the Netherlands through the <a href="https://ias.uva.nl/research/coupled-human-and-natural-systems/future-of-energy/future-of-energy.html">Future of Energy</a> network and various governmental and industrial partners.
 
 Previously, I was at the <a href="https://www.dur.ac.uk/idas/">Institute for Data Science</a> and the <a href="http://www.icc.dur.ac.uk/">Institute for Computational Cosmology</a>, where I obtained my Phd under the supervision of <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=shpd91">Baojiu Li</a> and <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=lpcb73">Richard Massey</a>. This work was made possible through the <a href="https://ddis.physics.dur.ac.uk/">STFC/CDT</a> scholarship.
