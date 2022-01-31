@@ -3,15 +3,17 @@ layout: page
 title: About
 ---
 
-**Hello,**
-I am a PostDoc at the <a href="https://ibed.uva.nl/">Institute for Biodiversity and Ecosystem Dynamics</a> and the <a href="https://ias.uva.nl/">Institute for Advanced Study</a> where I help to set up the <a href="https://polder.center/">POLDER Center</a> for policy decision-support and evidence-based reasoning.
+My research aims to uncover and design mathematical modelling methodologies for policy decision making. In this pursue, I aim to carefully find it's places of applicability without pushing the ideology of an expansive, invasive, and messianic 'computational universalism' [[1]](#1)). As every decision is a medium of power and of stratification, developing a framework that truly respects epistemic pluralism has to start at the bottom.
 
-As part of a interdisciplinary group, I am working on new methodologies:
+The bottom, in my case, are cyberinfrastructures which set "the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes [[2]](#2)). Here, [my work](https://christovis.github.io//research/2021-01-18-internet-governance) on internet governance makes the production of digital infrastructures more transparent and accountable. 
+
+Embedded within these cyberinfrastructures are digital platforms on which my everyday research practices depend in many ways (such as finding and gathering data to evaluate and validate mathematical models, identifying relevant literature, and publishing results). Platforms can be identified as a key driver of a significant shift in our epistemic infrastructure that is currently underway (Celia Lury 2021, [[3]](#3)). Here, [my work](https://christovis.github.io//research/2020-11-01-dppp) on digital platforms for political participation investigates the reshaping of urban issues.
+
+To account for tacit knowledges beyond data-driven logics I am working on new methodologies:
 - Starting with the creation of conceptual models in the form of causal loop diagrams (CLD) that store qualitative expert knowledge which has been gathered through group model building (GMB).
 - Turning the conceptual model, represented through the CLD, into a computational model, represented though a system dynamics models (SDM).
 - The created SDM can then be further refined by replacing links with more complex computational methods, such as agent-based models (ABM).
-
-These will be developed in the context of the energy transition in the Netherlands through the <a href="https://ias.uva.nl/research/coupled-human-and-natural-systems/future-of-energy/future-of-energy.html">Future of Energy</a> network and various governmental and industrial partners.
+These will be developed in the context of the energy transition in the Netherlands through the <a href="https://ias.uva.nl/research/coupled-human-and-natural-systems/future-of-energy/future-of-energy.html">Future of Energy</a> network and various governmental and industrial partners. As part of this work I am participant in the [Open Energy Modelling Initiative](https://openmod-initiative.org/), which promotes transparency and openness in energy system modelling.
 
 Previously, I was at the <a href="https://www.dur.ac.uk/idas/">Institute for Data Science</a> and the <a href="http://www.icc.dur.ac.uk/">Institute for Computational Cosmology</a>, where I obtained my Phd under the supervision of <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=shpd91">Baojiu Li</a> and <a href="https://www.dur.ac.uk/physics/staff/profiles/?username=lpcb73">Richard Massey</a>. This work was made possible through the <a href="https://ddis.physics.dur.ac.uk/">STFC/CDT</a> scholarship.
 
@@ -21,30 +23,39 @@ As the WHO declared the COVID-19 outbreak a pandemic, I joined the "Rapid Assist
 
 In that pursuit I organized and moderated a series of conversation at the <a href="https://www.dur.ac.uk/researchmethodscentre/">Durham Research Methods Centre</a> on machine learning and how to foster interdisciplinary research between the humanities, social- and natural-science (blog posts on these conversation can be found in my <a href="https://christovis.github.io//essay">essay</a> section). Furthermore am I working with the <a href="https://in-sight.it/">In-SIGHT</a> project (formerly the <a href="https://data-activism.net/">Datactive</a> project) to investigate how norms, such as human rights, get inscribed, resisted, and subverted in the Internet infrastructure through its transnational governance.
 
-
 The programming languages I am most familiar with are listed below:
 
 1. Python:
     - with speed ups via Numba or C and C++ through ctypes and cython
-    - machine learning libraries such as PyTorch and TensorFlow
+    - machine learning libraries such as Sklearn, PyTorch and TensorFlow
 2. Julia
 3. FORTRAN
 4. Bash
 5. Matlab
 6. C/C++
 
-I am currently exploring new programming paradigms and concepts with
-1. Scala
-
 I regularly use the following technologies:
 
 1. Latex
-2. git
+2. Git, Travis
 3. slurm & lsf batch system
-4. Jupyter notebooks
-5. Travis
-6. PyPI, conda, pytest
+4. Jupyter notebooks, Google Colab
+6. PyPI, Conda, PyTest
+7. Huggingface
 
-I also have a strong understanding of the scientific stack, SciPy
-(including numpy, matplotlib, and pandas). I utilise these tools everyday to
-handle big data produced by cosmological simulations of the universe.
+
+### References
+<a id="1">[1]</a>
+Golumbia, David (2009)
+The Cultural Logic of Computation
+Harvard University Press
+
+<a id="2">[2]</a>
+Easterling, Keller (2014)
+Extrastatecraft: The Power of Infrastructure Space
+Verso Publishing
+
+<a id="3">[3]</a>
+Lury, Celia (2021)
+Problem Spaces: How and Why Methodology Matters
+Polity Press

@@ -13,8 +13,8 @@ problems unfathomable for the human mind. With it grew the datafication of
 spaces, first motivated by governance and now increasingly by capitalism.
 Accordingly, a plethora of mathematical procedures have been codified into
 algorithms to make use of the data to, for instance visualise trends, find
-correlations, augment reality. In the pursuit of squeezing ever more insight
-out of data, different algorithms can be composed in various ways to achieve a
+correlations, and augment reality. In the pursuit of squeezing ever more insight
+out of data, different algorithms can be composed in various ways to achieve 
 certain goals.
 
 One broad class of algorithms, that have gained popularity in the last decade,
@@ -25,7 +25,7 @@ which exhibit true or a facsimile of intelligence, which has already shown
 beneficial application in, for example transportation through self-driving cars
 and healthcare by supporting diagnosis of illnesses.
 
-A algorithm that has hitherto escaped public discourse, which has nonetheless
+An algorithm that has hitherto escaped public discourse, which has nonetheless
 spread its roots firmly into our social structure, is known as agent-based
 modelling (ABM). Its aim is to study emerging phenomena from seemingly chaotic
 processes through agents that are equipped with their own attributes and rules.
