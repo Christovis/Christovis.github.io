@@ -7,25 +7,9 @@ imageurl: /assets/Kumi+Yamashita_2.jpg
 imagedsc: A zoom into the "CONSTELLATION - MANA no.2 2013" by Kumi Yamashita
 ---
 
-In this research project, I am teaming up with the DATACTIVE project, led by [Stefania Milan](https://www.stefaniamilan.net/) from the University of Amsterdam and many others, and contribute to the creation of the software tool, [BigBang](https://datactive.github.io/bigbang/). BigBang can access and download public mailing archives of regulatory bodies such as [IETF](https://www.ietf.org/), [ICANN](https://www.icann.org/), [W3C](https://www.w3.org/), and [3GPP](https://www.3gpp.org/) to name but a few. It furthermore facilitates the analysis of the mailing lists to study co-production and competitive processes, affiliations and social networks, their centrality and influence, the emergence and resolution of conflicts.
+For my work on internet governance, I am teaming up with the [IN-SIGHT project](https://in-sight.it/), led by [Stefania Milan](https://www.stefaniamilan.net/) from the University of Amsterdam and many others to investigate the global competition for influence over the development of critical Information and Communication Technology (ICT) standards in Standard Development Organizations (SDO). As part of this effort, I am further developing the [BigBang](https://datactive.github.io/bigbang/) software tool. BigBang's goal is to make the production of digital infrastructures more transparent and accountable. This is done by showing who participated, distinguishes and is left out. This includes personal communication channels, documents and network services of regulatory bodies such as [IETF](https://www.ietf.org/), [ICANN](https://www.icann.org/), [W3C](https://www.w3.org/), and [3GPP](https://www.3gpp.org/) to name but a few. BigBang makes it possible to analyze relationships, discourses, time series and knowledge networks. It is programmed in Python and belongs to notebooks that make BigBang more accessible for researchers and citizens, even with or without experience in quantitative methods. 
+BigBang is motivated by the fact, that discussions about norms and regulations of the Internet are all too often limited to what is visible: search engines, advertisement, and social media platforms. This, however, is only the tip of the iceberg. Beneath it, "Infrastructure sets the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes. "Changes in the globalizing world are not written in the language of law and diplomacy, but rather in the language of infrastructure." Thus this project exists to analyze the conversations and power dynamics that create information infrastructures and thus form the backbone of information societies.
 
-This project is motivated by the fact, that discussions about norms and regulations of the Internet are all too often limited to what is visible: search engines, advertisement, and social media platforms. This, however, is only the tip of the iceberg. Beneath it, "Infrastructure sets the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes. "Changes in the globalizing world are not written in the language of law and diplomacy, but rather in the language of infrastructure." Thus this project exists to analyze the conversations and power dynamics that create information infrastructures and thus form the backbone of information societies.
 
-Results of this project have already been accepted by high impact publishers and journals (see, e.g., [[1]](#1) and [[2]](#2)).
-
-![Contributions in working group 5 to the norms of the Internet of Things](/assets/internet_governance/3GPP_TSG_RAN_WG5_IOT_affiliations.png?raw=true)
-
-![Attributed gender to names of members of the IEEE](/assets/internet_governance/IEEE_gender.png?raw=true)
-
-### References
-<a id="1">[1]</a>
-ten Oever, N., Milan, S., and Beraldo, D. (2020)
-[Research Methods in Internet Governance](https://mitpress.mit.edu/books/researching-internet-governance)
-Chapter: Studying Discourse in Internet Governance through Mailing-list Analysis.
-MIT Press
-
-<a id="2">[2]</a>
-ten Oever, N. (2021)
-[“This is not how we imagined it”: Technological affordances, economic drivers, and the Internet architecture imaginary](https://journals.sagepub.com/doi/full/10.1177/1461444820929320)
-New Media & Society
-doi:10.1177/1461444820929320
+### Thesis Project
+Feel free to contact me if you are interested in this projects and are eager to explore a treasure trove of hitherto unexplored communications data using natural language process or knowledge graph constructions.
