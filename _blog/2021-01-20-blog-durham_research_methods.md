@@ -1,6 +1,6 @@
 ---
 title: Durham Research Methods Conversations - Decolonizing Artificial Intelligence
-type: essays
+type: blog
 date: 2021-01-20
 imageurl: /assets/preview_ai_africa.jpg
 imagedsc: From the cover of "What Do Science, Technology, and Innovation Mean from Africa?"

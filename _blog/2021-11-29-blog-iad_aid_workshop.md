@@ -1,6 +1,6 @@
 ---
 title: Towards Environmental Sustainability with the IETF
-type: essays
+type: blog
 date: 2021-03-03
 imageurl: /assets/preview_ict_for_sustainability.png
 imagedsc: Part of the cover of the 2nd issue of the Branch magazine.

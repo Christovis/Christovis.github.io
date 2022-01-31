@@ -1,6 +1,6 @@
 ---
 title: Durham Research Methods Conversations - Interdisciplinary Interrogation of Sociotechnical Systems
-type: essays
+type: blog
 date: 2021-03-03
 imageurl: /assets/preview_jodi_collective.png
 imagedsc: Adaptation of icti.me by the Jodi art collective
