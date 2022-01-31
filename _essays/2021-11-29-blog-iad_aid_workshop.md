@@ -2,8 +2,8 @@
 title: Towards Environmental Sustainability with the IETF
 type: essays
 date: 2021-03-03
-imageurl: /assets/preview_jodi_collective.png
-imagedsc: Adaptation of icti.me by the Jodi art collective
+imageurl: /assets/preview_ict_for_sustainability.png
+imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
 authors: Christoph Becker
 ---
 
