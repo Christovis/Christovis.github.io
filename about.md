@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-My research aims to uncover and design mathematical modelling methodologies for policy decision making. In this pursued, I aim to carefully find it's places of applicability without pushing the ideology of an expansive, invasive, and messianic 'computational universalism' [[1]](#1)). As every decision is a medium of power and of stratification, developing a framework that truly respects epistemic pluralism has to start at the bottom.
+My research aims to uncover and design mathematical modelling methodologies for policy decision making. In this pursued, I aim carefully trying to find it's places of applicability without pushing the ideology of an expansive, invasive, and messianic 'computational universalism' [[1]](#1)). As every decision is a medium of power and of stratification, developing a framework that truly respects epistemic pluralism has to start at the bottom.
 
 The bottom, in my case, are cyberinfrastructures which set "the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes [[2]](#2)). Here, [my work](https://christovis.github.io//research/2021-01-18-internet-governance) on internet governance makes the production of digital infrastructures more transparent and accountable. 
 
