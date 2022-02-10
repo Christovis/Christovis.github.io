@@ -9,14 +9,18 @@ authors: Christoph Becker
 
 Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to information era. Now, the transformation of society from a information to a post-anthropocenic epoch (or Chthulucene, Capitalocene, whatever floats your boat) through ICT is being widely advocated [[1]](#1), and they are often positioned as one potential means of reducing energy-intensity of daily live [[2]](#2). Reason being is, that ICT can increase the energy efficiency of the global economy, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks of producers, consuming, and prosumers. This would in turn shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
 
-
 The ICT sector used a iota of energy relative to the total use of societies (in the Global North) in 2011 [[4]](#4). However, the ICT sector itself will pose as a significant burden on the path towards a sustainable society while it dominates the economy and our daily lives. The worst case scenario forecasts a usage of as much as 51% of global electricity production and a contribution of up to 23% to the globally released GHG emissions by ICT in 2030 [[5]](#5). The parts of the ICT that will be consuming most of its energy are wireless telecommunication systems and data centres.
 
 Therefore it is necessary to critically examine separate parts of the Internet and ask not only whether they can be improved with respect to increasing capacity and speed, but also, whether they can minimise environmental damage, which has received far less attention [[6]](#6). As standard developing organisations (SDOs) define the set of (technical) criteria, associated practices and methods that ensure the interoperability of networks and datasets, they play an important role in this process.
 
-The ISO (International Standardization Organization), the IEC (International Electrotechnical Commission),
+| Layer         | Standards                                               | SDOs
+| ------------- | -------------                                           | -------------
+| 4 Application | XML, HTTP, HTML, IMAP, POP, MIME                        | IETF, IETF, W3C
+| 3 Transport   | TCP, UDP, TLS, QUIC                                     | IETF
+| 2 Internet    | IPv4, IPv6, ICMP, ECM, Seamoby                          | IETF
+| 1 Network     | Ethernet, IEEE 802, 11, ISDNm DSL, WiFi, 3G/4G/5G/6G... | IEEE, ETSI, 3GPP
 
-and the UN ITU (United Nations International Telecommunications Union) are three important bodies in the Green IT landscape.
+The International Standardization Organization (ISO), the International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers Standards Association (IEEE-SA) and the United Nations International Telecommunications Union (ITU) are three of the most important standard organisations for the ICT.
 For Greening ICT system such as data center and a network infrastructure, several organisations have been promoting international standardisation. ITU-T (International Telecommunication Union-Telecommunication Standardisation Sector) investigates environmental effect of ICT system and discusses its standardisation [6].
 The International Telecommunication Union’s Standardization Sector (ITU-T) handles telecommunication protocols.
 
