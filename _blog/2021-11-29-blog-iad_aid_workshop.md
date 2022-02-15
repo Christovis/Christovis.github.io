@@ -24,33 +24,24 @@ Before uncovering the histories of climate thought in the chosen SDOs, let's ske
 | ------------- | ------------ | ---------------
 | 4 Application | IETF         | HTTP, HTML, MIME, POP, IMAP, SMTP, DNS, SSH
 |               | W3C          | HTTP, HTML, XML
-|               | ITU          | JPEG
+|               | ITU-T        | JPEG
 | 3 Transport   | IETF         | TCP, UDP, TLS, QUIC
 | 2 Internet    | IETF         | IPv4, IPv6, ICMP, ECM, Seamoby
 | 1 Network     | IEEE         | Ethernet, WiFi
-|               | ITU          | ISDN, DSL
+|               | ITU-T        | ISDN, DSL
 |               | 3GPP         | 2G/3G/4G/5G
 
-
-In the table above I show a set of exemplary standards as well as the SDOs responsible for these standards across the TCP/IP layers to give idea about what the different SDOs are concerned with (it of course, grossly oversimplifies the vast array of standards and SDOs involved in Internet technologies).
-
-
 <!-- ITU -->
-The International Standardization [Organization](Organization) (ISO), the International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers Standards Association (IEEE-SA) and the United Nations International Telecommunications Union (ITU) are three of the most important standard organisations for the ICT.
-For Greening ICT system such as data center and a network infrastructure, several organisations have been promoting international standardisation. ITU-T (International Telecommunication Union-Telecommunication Standardisation Sector) investigates environmental effect of ICT system and discusses its standardisation [6].
-The International Telecommunication Union’s Standardization Sector (ITU-T) handles telecommunication protocols.
+All five standardisation bodies in the table have and are working towards a sustainable future. The International Telecommunication Union-Telecommunication Standardisation Sector (ITU-T) investigates within its Study Group 5 environmental effects of ICT and published guidelines for using ICT in an eco-friendly way. It is also responsible for studying design methodologies to reduce environmental effects. ITU-T L.1200 specifies the Direct Current interfaces while ITU-T L.1300 describes best practices to reduce negative impact of datacenters on climate.
 
 <!-- 3GPP -->
-The 3rd Generation Project Partnership (3GPP) which sets standards for mobile communications.
-The European Telecommunications Standards Institute (ETSI) published a standard, ES-203 237, the Green Abstraction Layer, that specified the Green Standard Interface (GSI) for a uniform way for interactions between the energy-aware hardware and the control framework [21]. The proposed GSI intended to provide the functionalities of discovery, control plane retrieving information about the different energy states supported by the data plane, and monitoring, exchanging relevant device parameters. The goal of this standard was to represent an abstraction of the energy-aware capabilities of networking devices to higher-layer protocols.
-Other organisations discuss standard protocol and data set for green ICT. ETSI (European Telecommunications Standards Institute) are promoting an international standardisation of a protocol to monitor and control air-conditioning equipment and an electrical device [8]. In Ecma International, members discuss standard data sets for monitoring and controlling the status of a server and air-conditioning equipment [9].
+The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). In 2014, ETSI published standard ES-203-237 "Green Abstraction Layer" that specifies the Green Standard Interface (GSI) and the Energy Aware States (EASes) to establish uniform interactions between the energy-aware hardware and the control framework. The goal of this standard was to represent an abstraction of the energy-aware capabilities of networking devices to higher-layer protocols.
 
 <!-- W3C -->
-The World Wide Web Consortium (W3C), which sets standards for the web.
-In the W3C standard setting organisation the public email archive {\tt public-bde-climate} of the 'BDE-Climate action, environment, resource efficiency and raw materials Community Group' was depreciated in April 2016. Their work continues in the 'Big Data Europe Community Group' and will be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation. The program for 2018-20 can be found here https://ec.europa.eu/research/participants/data/ref/h2020/wp/2018-2020/main/h2020-wp1820-climate_en.pdf.
+The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource efficiency and raw materials Community Group' which existed for appr. one year until 2016. It was established under the 'Big Data Europe' project under the European Union's Horizon 2020 Programme. It mainly served the purpose to '[to identify the current as well the future Big Data challenges in the Climate domain](https://www.w3.org/community/bde-climate/2015/09/04/summary-of-1st-community-bde-sc5-workshop/)'. The outcomes would then be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation.
 
 <!-- IETF -->
-The Internet Engineering Task Force (IETF) creates and publishes internet communication protocols.
+The Internet Engineering Task Force (IETF) is among the most open and transparent Internet SDOs.
 
 A clear example of IETF's influence is given by its redesign of the IPv4 communication protocol into the improved version IPv6. The redesign does not only solve the problem of IPv4 address exhaustion, but also reduces energy waste and increases flexibility towards green networking (e.g., [[7]](#7), [[8]](#8), [[9]](#9), [[10]](#10)). In 2010, the IETF set up the Energy Management working group (EMAN, [[11]](#11)) to create a framework standard that enables monitoring, controlling, and managing the energy consumption of networking and network-attached devices while still providing sufficient performance to meet service level objectives with Five years later however, the EMAN working group was shut down and has never been reactivated despite remaining limitations (e.g., it does not address questions regarding electricity producers, and distributors) and the roll-out of new technologies (e.g., IoT and 5G). But other dimensions through which impacts on climate and ecology can be addressed are present in other working groups that are concerned with, e.g., smart energy, smart grid, and the Internet of Things.
 
