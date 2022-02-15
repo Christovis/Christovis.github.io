@@ -7,24 +7,28 @@ imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
 authors: Christoph Becker
 ---
 
-# Setting the stage for ICT
+<!-- Setting the stage for ICT -->
 Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
 
-# Need to improve ICT
+<!-- Need to improve ICT -->
 If the ICT sector is to play such a pivotal role in the energy transition, it will take on a significant burden to reduce it's own energy consumption and GHG emissions.
 While it currently contributes 2.1-3.9% to the total GHG emission of our population (C. Freitag et al 2021), it is projected to dramatically increase within this decade: using 21% of global electricity by 2030 in the expected case, with an 8% or 51% share in the best and worst cases respectively [1]. The most significant trend along this projection, regardless of scenario, is that the energy consumption decreases in consumer devices and increases in networks and data centers. The transformative potential of 5G, on the energy sector specifically and the economy and society in general, puts the Internet infrastructure at the center of discussions about sustainable development and begs for in depth and cross-disciplinary deliberation.
 
-# Introducing SDOs
-In this short article, I want to explore how standards-developing organisations (SDO) have so far attended to the climate emergency. While not all Internet governance practices unfold in standard-setting institutions, these bodies are focus points for coordination, and a place where many of the actors that produce the Internet, and exercise infrastructural power, meet. They pose as a space for self-regulated fora and bottom-up coordination (Sowell 2012 and ten Oever 2021). There a number of relevant SDOs who's work on Internet governance and standardisation is done in cooperation with other SDOs and whos focus can evolve into different directions. To simplify this exploration, I will only focus on the principal SDOs engaged in the development of the Internet’s architecture, namely the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
+<!-- Introducing SDOs -->
+In this short article, I want to explore how standards-developing organisations (SDO) have so far attended to the climate emergency. While not all Internet governance practices unfold in standard-setting institutions, these bodies are focus points for coordination, and a place where many of the actors that produce the Internet, and exercise infrastructural power, meet. They pose as a space for self-regulated fora and bottom-up coordination (Sowell 2012 and ten Oever 2021). There are a number of relevant SDOs who's work on Internet governance and standardisation is done in cooperation with other SDOs and whos focus can evolve into different directions. To simplify this exploration, I will only focus on the principal SDOs engaged in the development of the Internet’s architecture, namely the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
 
-In the table below I show a set of exemplary standards as well as the SDOs responsible for these standards across the TCP/IP layers to give idea about what the different SDOs are concerned with (it of course, grossly oversimplifies the vast array of standards and SDOs involved in Internet technologies).
+<!-- TCP/IP protocol stack -->
+Before uncovering the histories of climate thought in the chosen SDOs, let's sketch the essential parts of the Internet to gain an overview of where potential improvements can be made. The most universal, high-level, and persistent element of structure and organisation is the Internet architecture. The architecture defines how sets of protocols are organised, where protocols define how various modules interact. For the current Internet, the architecture design is the TCP/IP protocol stack (also referred to as the hourglass protocol stack). Although in theory each protocol belongs to one layer in the stack, in practice protocols were required that can 'overlay' between different layers. Thus, even though the image of a tidy stack of separate sets of protocols is outdated, I will list it here as it is what we currently have to work with. (As a side note, notable research projects that study new architecture designs are SCION, RINA and NDN.)
 
-| Layer         | Standards                                               | SDOs
+| Layer         | Standards per SDO
 | ------------- | -------------                                           | -------------
 | 4 Application | XML, HTTP, HTML, IMAP, JPEG, MIME, SMTP, DNS, SSH       | IETF, IETF, W3C, ICANN, ITU
 | 3 Transport   | TCP, UDP, TLS, QUIC                                     | IETF
 | 2 Internet    | IPv4, IPv6, ICMP, ECM, Seamoby                          | IETF
 | 1 Network     | Ethernet, IEEE 802, 11, ISDN, DSL, WiFi, 3G/4G/5G/...   | IEEE, ITU, ETSI, 3GPP
+
+In the table above I show a set of exemplary standards as well as the SDOs responsible for these standards across the TCP/IP layers to give idea about what the different SDOs are concerned with (it of course, grossly oversimplifies the vast array of standards and SDOs involved in Internet technologies).
+
 
 # ITU
 The International Standardization Organization (ISO), the International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers Standards Association (IEEE-SA) and the United Nations International Telecommunications Union (ITU) are three of the most important standard organisations for the ICT.
