@@ -1,7 +1,7 @@
 ---
 title: Towards Environmental Sustainability with the IETF
 type: blog
-date: 2021-03-03
+date: 2021-12-08
 imageurl: /assets/preview_ict_for_sustainability.png
 imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
 authors: Christoph Becker
