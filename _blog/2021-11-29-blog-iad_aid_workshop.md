@@ -22,14 +22,14 @@ Before uncovering the histories of climate thought in the chosen SDOs, let's ske
 
 | Layer         | SDOs and their Standards
 | ------------- | -------------------------------------------------------------
-| 4 Application | IETF: HTTP, HTML, MIME, POP, IMAP, SMTP, DNS, SSH
-|               | W3C: HTTP, HTML, XML
-|               | ITU: JPEG
-| 3 Transport   | IETF: TCP, UDP, TLS, QUIC
-| 2 Internet    | IETF: IPv4, IPv6, ICMP, ECM, Seamoby
-| 1 Network     | IEEE: Ethernet, WiFi
-|               | ITU: ISDN, DSL
-|               | 3GPP: 2G/3G/4G/5G
+| 4 Application | <u>IETF</u>: HTTP, HTML, MIME, POP, IMAP, SMTP, DNS, SSH
+|               | <u>W3C</u>: HTTP, HTML, XML
+|               | <u>ITU</u>: JPEG
+| 3 Transport   | <u>IETF</u>: TCP, UDP, TLS, QUIC
+| 2 Internet    | <u>IETF</u>: IPv4, IPv6, ICMP, ECM, Seamoby
+| 1 Network     | <u>IEEE</u>: Ethernet, WiFi
+|               | <u>ITU</u>: ISDN, DSL
+|               | <u>3GPP</u>: 2G/3G/4G/5G
 
 
 In the table above I show a set of exemplary standards as well as the SDOs responsible for these standards across the TCP/IP layers to give idea about what the different SDOs are concerned with (it of course, grossly oversimplifies the vast array of standards and SDOs involved in Internet technologies).
