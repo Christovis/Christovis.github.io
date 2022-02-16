@@ -8,14 +8,17 @@ authors: Christoph Becker
 ---
 
 <!-- Setting the stage for ICT -->
-Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
+Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable (First time I've seen "s12y" (sustainability) and while I'm usually averse to new buzzwords I quite like the association with "i18n" (internationalization) and "a11y" (accessibility).) future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
+
 
 <!-- Need to improve ICT -->
 If the ICT sector is to play such a pivotal role in the energy transition, it will take on a significant burden to reduce it's own energy consumption and GHG emissions.
 While it currently contributes 2.1-3.9% to the total GHG emission of our population (C. Freitag et al 2021), it is projected to dramatically increase within this decade: using 21% of global electricity by 2030 in the expected case, with an 8% or 51% share in the best and worst cases respectively [1]. The most significant trend along this projection, regardless of scenario, is that the energy consumption decreases in consumer devices and increases in networks and data centers. The transformative potential of 5G, on the energy sector specifically and the economy and society in general, puts the Internet infrastructure at the center of discussions about sustainable development and begs for in depth and cross-disciplinary deliberation.
 
+
 <!-- Introducing SDOs -->
 In this short article, I want to explore how standards-developing organisations (SDO) have so far attended to the climate emergency. While not all Internet governance practices unfold in standard-setting institutions, these bodies are focus points for coordination, and a place where many of the actors that produce the Internet, and exercise infrastructural power, meet. They pose as a space for self-regulated fora and bottom-up coordination (Sowell 2012 and ten Oever 2021). There are a number of relevant SDOs who's work on Internet governance and standardisation is done in cooperation with other SDOs and whos focus can evolve into different directions. To simplify this exploration, I will only focus on the principal SDOs engaged in the development of the Internet’s architecture, namely the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
+
 
 <!-- TCP/IP protocol stack -->
 Before uncovering the histories of climate thought in the chosen SDOs, let's sketch the essential parts of the Internet to gain an overview of where potential improvements can be made. The most universal, high-level, and persistent element of structure and organisation is the network architecture. The architecture defines how sets of protocols are organised, where protocols define how various modules interact. For the current Internet, the architecture design is the TCP/IP protocol stack (also referred to as the hourglass protocol stack). Although in theory each protocol belongs to one layer in the stack, in practice protocols were required that can 'overlay' between different layers. Thus, even though the image of a tidy stack of separate sets of protocols is outdated, I will list it here as it is what we currently have to work with. As a side note, notable research projects that study new architecture designs are SCION, RINA and NDN.
@@ -31,14 +34,27 @@ Before uncovering the histories of climate thought in the chosen SDOs, let's ske
 |               | ITU-T        | ISDN, DSL
 |               | 3GPP         | 2G/3G/4G/5G
 
+
 <!-- ITU -->
 All five standardisation bodies in the table have and are working towards a sustainable future. The International Telecommunication Union-Telecommunication Standardisation Sector (ITU-T) investigates within its Study Group 5 environmental effects of ICT and published guidelines for using ICT in an eco-friendly way. It is also responsible for studying design methodologies to reduce environmental effects. ITU-T L.1200 specifies the Direct Current interfaces while ITU-T L.1300 describes best practices to reduce negative impact of datacenters on climate.
+
 
 <!-- 3GPP -->
 The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). In 2014, ETSI published standard ES-203-237 "Green Abstraction Layer" that specifies the Green Standard Interface (GSI) and the Energy Aware States (EASes) to establish uniform interactions between the energy-aware hardware and the control framework. The goal of this standard was to represent an abstraction of the energy-aware capabilities of networking devices to higher-layer protocols.
 
+
 <!-- W3C -->
-The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource efficiency and raw materials Community Group' which existed for appr. one year until 2016. It was established under the 'Big Data Europe' project under the European Union's Horizon 2020 Programme. It mainly served the purpose to '[to identify the current as well the future Big Data challenges in the Climate domain](https://www.w3.org/community/bde-climate/2015/09/04/summary-of-1st-community-bde-sc5-workshop/)'. The outcomes would then be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation.
+The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource efficiency and raw materials Community Group' which existed for appr. one year until 2016. It was established under the 'Big Data Europe' project under the European Union's Horizon 2020 Programme. It mainly served the purpose to '[to identify the current as well the future Big Data challenges in the Climate domain](https://www.w3.org/community/bde-climate/2015/09/04/summary-of-1st-community-bde-sc5-workshop/)'. The outcomes would then be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation. Although this community group was only short lived, continues and newer traces of climate thought can be found within W3C. A recently erupted debate around W3C efforts to standardise Decentralized Identifiers (DID), a prominent use case of the infamous non-fungible tokens (NFT). It started with the Mozilla Foundation's  [call to review](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html) W3C's DID v1.0 in September 2021 as
+
+> Proof-of-work methods (e.g. blockchains) are harmful for sustainability (s12y). Also as noted by Google, the registry contains methods which rely upon proof-of-work which is wasteful. “Successful” proof-of-work systems waste a staggering amount of electricity world-wide (e.g. Bitcoin consumes more energy than most countries [...]) demonstrating that the more such methods are adopted, the more their energy requirements grow, without any discernible upper bound, which is grossly irresponsible given the global environmental crisis (recent IPCC report [...]).
+
+To which the responds of W3C's DID working group members was:
+
+> It seems like a witch hunt.
+> This is a blatant political attack on cryptocurrencies and has no place in interoperability specifications for DID Methods.
+
+None the less, it was agree to include a section on 'Environmental Considerations' in the [current draft](https://w3c.github.io/did-imp-guide/#environmental-considerations).
+
 
 <!-- IETF -->
 The Internet Engineering Task Force (IETF) is among the most open and transparent Internet SDOs.
