@@ -51,6 +51,7 @@ The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource
 To which the responds of W3C's DID working group members was:
 
 > It seems like a witch hunt.
+
 > This is a blatant political attack on cryptocurrencies and has no place in interoperability specifications for DID Methods.
 
 None the less, it was agree to include a section on 'Environmental Considerations' in the [current draft](https://w3c.github.io/did-imp-guide/#environmental-considerations).
