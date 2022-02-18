@@ -7,6 +7,8 @@ imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
 authors: Christoph Becker
 ---
 
+> work in progress
+
 <!-- Setting the stage for ICT -->
 Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable (First time I've seen "s12y" (sustainability) and while I'm usually averse to new buzzwords I quite like the association with "i18n" (internationalization) and "a11y" (accessibility).) future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
 
