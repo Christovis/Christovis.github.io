@@ -64,8 +64,7 @@ Bild 3: Oben ist die Anzahl der pro Jahr gesendeten und unten der empfangenen E-
 
 Um eine detailliertest How-To Tutorium zu folgen, haben wir dieses Video für dich erstellt: https://www.youtube.com/watch?v=JWimku8JVqE
 
-
-BigBang hat bereits aktive Entwickler- und Nutzergruppen bestehend aus AkademikerInnen und AktivistInnen der Zivilgesellschaft und wurde für Projekte der Menschenrechtsorganisation [ARTICLE19](https://www.article19.org/), des '[Center for Democracy and Technology](https://cdt.org/)' (CDT), und des '[Centre for Internet & Society](https://cis-india.org/)' (CIS-India) verwendet. Veröffentlichte Resultate beinhalten unter anderem das Untersuchen von Diversitaet von ICANN zu untersuchen und inwieweit Menschenrechte von Netzinfrastrukturanbieter berücksichtigt werden.
+BigBang hat bereits aktive Entwickler- und Nutzergruppen bestehend aus AkademikerInnen und AktivistInnen der Zivilgesellschaft und wurde für Projekte der Menschenrechtsorganisation [ARTICLE19](https://www.article19.org/), des '[Center for Democracy and Technology](https://cdt.org/)' (CDT), und des '[Centre for Internet & Society](https://cis-india.org/)' (CIS-India) verwendet. Veröffentlichte Resultate beinhalten unter anderem die Untersuchungsergebnisse von Diversität von ICANN ([[1]](#1)) und in wie weit Menschenrechte von Netzinfrastrukturanbieter berücksichtigt werden ([[2]](#2), [[3]](#3)).
 
 
 ### References
