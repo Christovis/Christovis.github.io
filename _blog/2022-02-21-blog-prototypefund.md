@@ -7,7 +7,6 @@ imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
 authors: Christoph Becker
 ---
 
-
 Jedes Mal, wenn man das Internet benutzt, sei es, um mit Verwandten in Kontakt zu bleiben oder Nachrichten aus aller Welt zu lesen, verlässt du dich auf die Arbeit von Normgremien, um ein schnelles, sicheres und genaues Übermitteln von Webseiten, Videos und Telefonsignalen zu garantieren. Es gibt eine Vielzahl von unterschiedlichen regionalen und globalen Normgremien, die Standards und Protokolle für das Internet definieren. Zwei der wichtigsten Normgremien sind die '[Internet Engineering Task Force](https://www.ietf.org/)' (IETF) und das '[World Wide Web Consortium](https://www.w3.org/)' (W3C) die zusammen Standards so wie HTML, JPEG, SSH, oder PGP gesetzt haben.
 
 Genauso wie man nicht über die Kabel, Datenzentren oder Antennen nachdenken muss, die das Browsen im Internet ermöglichen, entfaltet sich der enorme Einfluss von Normgremien auf z. B., die Fähigkeit privater Nutzer ihre eigenen Datenströme zu kontrollieren, oftmals unbemerkt im Hintergrund. Auch wenn einige Normgremien offen für die Teilnahme eines jeden sind, werden sie oft von internationalen Konzernen (so wie Ericsson, Qualcomm, Siemens, Nokia, Huawei) dominiert, die für das Internet verantwortlich sind. Das kontrollieren, ob neue Standards gewisse Kriterien erfüllen (auf z. B., die Gewährleistung der Privatsphäre von Nutzern) oder richtig implementiert werden, wird den von privaten Unternehmen dominierten Normgremien selbst überlassen.
@@ -37,7 +36,7 @@ $ python3 bin/collect_mail.py -f <Dateipfad zu der Textdatei>
 public-webauthn: 100%|#######################################################| 17956/17956 [7:58:47<00:00,  1.60s/it]
 www-voice:  34%|######################8                                        | 1408/4128 [38:24<1:16:19,  1.68s/it]
 ```
-Da dies ein Zeitaufwendiges verfahren sein kann für große Mailinglisten (für Mailinglisten mit 200k E-Mails dauert es bis zu 111 Stunden) arbeiten wir daran, um die Datensätze in einem leichter zugänglichen Format zu teilen, welches die DSGVO Grundsetze berücksichtigt.
+Da dies ein Zeitaufwendiges verfahren sein kann für große Mailinglisten (einige Mailinglisten umfassen bis zu 200k E-Mails, wodurch es bis zu 111 Stunden dauern kann, um sie herunterzuladen), arbeiten wir daran, um die Datensätze in einem leichter zugänglichen Format zu teilen, welches die DSGVO Grundsätze berücksichtigt.
 
 Nachdem alle Mailinglisten heruntergeladen wurden, können sie mit ein Par bereitgestellten Funktionen analysiert werden, z. B., das Zählen der gesendeten Nachrichten per Domänenteil
 ```
@@ -50,6 +49,22 @@ oder das Filtern aller Nachrichten mit einer bestimmten Betreffzeile
 ```
 mlist.crop_by_subject(match="EVS SWG Sessions")
 ```
+
+Mit fortgeschrittenen Funktionen können Ergebnisse erzielt werden, wie sie in den folgenden Figuren zu sehen sind.
+
+![Communication Network in 3GPP_TSG_RAN_WG5_IOT](/assets/internet_governance/bigbang_communication_network.png?raw=true)
+Bild 1: Kommunikationsnetzwerk der 3GPP Mailingliste '[3GPP_TSG_RAN_WG5_IOT](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG5_IOT)'. Violette und dünne Linien deuten auf weniger gesendete Nachrichten hin als rote und dicke Linien. Daraus schlussfolgert, das insbesondere Huawei viele Nachrichten mit Eircsson und Siemens ausgetauscht hat.
+
+
+![Network centralities in 3GPP_TSG_RAN_WG4_IOT](/assets/internet_governance/bigbang_communication_network.png?raw=true)
+Bild 2: Von links nach rechts sind die Gradzentralität, Nähezentralität und Zwischenzentralität für verschiedene Domänenteile in der 3GPP '[3GPP_TSG_RAN_WG4_IOT](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG4_IOT)' Mailingliste berechnet. Von den drei Zentralitäten es erkennbar das insbesondere ETSI, ein Partnerprojekt von 3GPP, und die 'China Academy of Telecommunications Technology' (CATT) besonders relevant sind.
+
+![Number of send and received messages by Chinese companies in the 3GPP_TSG_CT_WG4](/assets/internet_governance/bigbang_msgs_send_received.png?raw=true)
+Bild 3: Oben ist die Anzahl der pro Jahr gesendeten und unten der empfangenen E-Mails von Chinesischen (farbige Linien) und anderen (graue Linien) Firmen in der 3GPP '[3GPP_TSG_CT_WG4](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_CT_WG4)' Mailingliste zu sehen. Die vertikalen gepunkteten Linien markieren Jahre in denen neue Standards veröffentlicht wurden.
+
+
+Um eine detailliertest How-To Tutorium zu folgen, haben wir dieses Video für dich erstellt: https://www.youtube.com/watch?v=JWimku8JVqE
+
 
 BigBang hat bereits aktive Entwickler- und Nutzergruppen bestehend aus AkademikerInnen und AktivistInnen der Zivilgesellschaft und wurde für Projekte der Menschenrechtsorganisation [ARTICLE19](https://www.article19.org/), des '[Center for Democracy and Technology](https://cdt.org/)' (CDT), und des '[Centre for Internet & Society](https://cis-india.org/)' (CIS-India) verwendet. Veröffentlichte Resultate beinhalten unter anderem das Untersuchen von Diversitaet von ICANN zu untersuchen und inwieweit Menschenrechte von Netzinfrastrukturanbieter berücksichtigt werden.
 
