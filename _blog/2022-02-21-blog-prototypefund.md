@@ -55,8 +55,7 @@ Mit fortgeschrittenen Funktionen können Ergebnisse erzielt werden, wie sie in d
 ![Communication Network in 3GPP_TSG_RAN_WG5_IOT](/assets/internet_governance/bigbang_communication_network.png?raw=true)
 Bild 1: Kommunikationsnetzwerk der 3GPP Mailingliste '[3GPP_TSG_RAN_WG5_IOT](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG5_IOT)'. Violette und dünne Linien deuten auf weniger gesendete Nachrichten hin als rote und dicke Linien. Daraus schlussfolgert, das insbesondere Huawei viele Nachrichten mit Eircsson und Siemens ausgetauscht hat.
 
-
-![Network centralities in 3GPP_TSG_RAN_WG4_IOT](/assets/internet_governance/bigbang_communication_network.png?raw=true)
+![Network centralities in 3GPP_TSG_RAN_WG4_IOT](/assets/internet_governance/bigbang_centralities.png?raw=true)
 Bild 2: Von links nach rechts sind die Gradzentralität, Nähezentralität und Zwischenzentralität für verschiedene Domänenteile in der 3GPP '[3GPP_TSG_RAN_WG4_IOT](https://list.etsi.org/scripts/wa.exe?A0=3GPP_TSG_RAN_WG4_IOT)' Mailingliste berechnet. Von den drei Zentralitäten es erkennbar das insbesondere ETSI, ein Partnerprojekt von 3GPP, und die 'China Academy of Telecommunications Technology' (CATT) besonders relevant sind.
 
 ![Number of send and received messages by Chinese companies in the 3GPP_TSG_CT_WG4](/assets/internet_governance/bigbang_msgs_send_received.png?raw=true)
