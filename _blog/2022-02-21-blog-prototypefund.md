@@ -2,8 +2,8 @@
 title: BIGBANG - Für ein transparenteres und rechenschaftspflichtiges Internet
 type: blog
 date: 2022-02-21
-imageurl: /assets/preview_ict_for_sustainability.png
-imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
+imageurl: /assets/Kumi+Yamashita_2.jpg
+imagedsc: A zoom into the "CONSTELLATION - MANA no.2 2013" by Kumi Yamashita
 authors: Christoph Becker
 ---
 
