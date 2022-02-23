@@ -42,8 +42,14 @@ All five standardisation bodies in the table have and are working towards a sust
 
 
 <!-- 3GPP -->
-The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). In 2014, ETSI published standard ES-203-237 "Green Abstraction Layer" that specifies the Green Standard Interface (GSI) and the Energy Aware States (EASes) to establish uniform interactions between the energy-aware hardware and the control framework. The goal of this standard was to represent an abstraction of the energy-aware capabilities of networking devices to higher-layer protocols.
-
+The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). Documented traces of a change in narrative that includes not just energy saving incentives to reduce costs for operators, but also a motivation to 'contribute to the protection of our environment and the environment of future generations' ([[3GPP-1]](#3GPP-1)) are starting to show up in 2009 with Release-10. This change is directly driven by operators wanting to create an 'environmental image' of themselves and indirectly by governments wanting to meet national and international treaties on climate change. Since then the focus has been on six different topics:
+- Telecommunication management; study on Energy Savings Management (ESM)
+- Operations And Management (OAM) aspects of Energy Saving in Radio Networks
+- Study impacts on 'User Equipment - Core network' signalling from Energy Saving
+- Study on solutions for energy saving within Universal Mobile Telecommunications System (UMTS) Node-Bs
+- Study on network energy saving for Evolved Universal Terrestrial Radio Access Network (E-UTRAN)
+- Study on Solutions for Global System for Mobile Communications (GSM) / EDGE Base Transceiver Station (BTS) Energy Saving
+Furthermore, ETSI itself set up a technical committee 'Environmental Engineering' (EE) that published its first standard 'Better determination of equipment energy consumption for improved sizing of power plant' in 2007. Generally this technical committee focuses on the environmental and infrastructural aspects for all telecommunication equipment and its environment, including equipment installed in subscriber premises. Since its creation it has published 15 different standards. This development is partially follows from ETSI signing the EC Mandate M/462 in 2010, which carries the objective to enable efficient energy use in fixed and mobile information and communication networks.
 
 <!-- W3C -->
 The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource efficiency and raw materials Community Group' which existed for appr. one year until 2016. It was established under the 'Big Data Europe' project under the European Union's Horizon 2020 Programme. It mainly served the purpose to '[to identify the current as well the future Big Data challenges in the Climate domain](https://www.w3.org/community/bde-climate/2015/09/04/summary-of-1st-community-bde-sc5-workshop/)'. The outcomes would then be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation. Although this community group was only short lived, continues and newer traces of climate thought can be found within W3C. Such as in 2019 when W3C's Technical Architecture Group released their ['Ethical Web Principles'](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable) which explicitly states: 'The web must be an environmentally sustainable platform'. These principles have been labelled as 'anticompetitive' within W3C and shows the competition of views within SDOs. A recently erupted debate around W3C efforts to standardise Decentralized Identifiers (DID), a prominent use case of the infamous non-fungible tokens (NFT). It started with the Mozilla Foundation's  [call to review](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html) W3C's DID v1.0 in September 2021 as:
@@ -127,3 +133,9 @@ The Global Communications Conference, IEEE
 <a id="11">[11]</a>
 Joel Jaeggli (2014)
 Energy Management (EMAN) Applicability Statement
+
+
+<a id="3GPP-1">[3GPP-1]</a>
+https://blog.3g4g.co.uk/2010/10/3gpp-green-activities-energy-saving.html
+Published: 05/10/2010
+Accessed: 23/02/2022
