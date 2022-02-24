@@ -9,8 +9,11 @@ authors: Christoph Becker
 
 > work in progress
 
+
+B. Bratton "this in turn may pyt the design of the *Earth* layer of The Stack in the untenable position of working on behalf of the exceptional emergencies that most threaten the platform's coherency, such that in the decades to come, the self-amplifying logics of ecological governance demand not only geoengineering, but also incredible computational energy capture-and-distribution megastructures far beyond our current capabilities." page 76
+
 <!-- Setting the stage for ICT -->
-Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable (First time I've seen "s12y" (sustainability) and while I'm usually averse to new buzzwords I quite like the association with "i18n" (internationalization) and "a11y" (accessibility).) future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
+Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
 
 
 <!-- Need to improve ICT -->
@@ -49,7 +52,7 @@ The 3rd Generation Project Partnership (3GPP) was founded by the European Teleco
 - Study on solutions for energy saving within Universal Mobile Telecommunications System (UMTS) Node-Bs
 - Study on network energy saving for Evolved Universal Terrestrial Radio Access Network (E-UTRAN)
 - Study on Solutions for Global System for Mobile Communications (GSM) / EDGE Base Transceiver Station (BTS) Energy Saving
-Furthermore, ETSI itself set up a technical committee 'Environmental Engineering' (EE) that published its first standard 'Better determination of equipment energy consumption for improved sizing of power plant' in 2007. Generally this technical committee focuses on the environmental and infrastructural aspects for all telecommunication equipment and its environment, including equipment installed in subscriber premises. Since its creation it has published 15 different standards. This development is partially follows from ETSI signing the EC Mandate M/462 in 2010, which carries the objective to enable efficient energy use in fixed and mobile information and communication networks.
+Furthermore, ETSI itself set up a technical committee 'Environmental Engineering' (EE) that published its first standard 'Better determination of equipment energy consumption for improved sizing of power plant' in 2007. Generally this technical committee focuses on the environmental and infrastructural aspects for all telecommunication equipment and its environment, including equipment installed in subscriber premises. Since its creation it has published 15 different standards ([[3GPP-2]](#3GPP-2)). This development is partially follows from ETSI signing the EC Mandate M/462 in 2010, which carries the objective to enable efficient energy use in fixed and mobile information and communication networks.
 
 <!-- W3C -->
 The World Wide Web Consortium (W3C) had a 'Climate action, environment, resource efficiency and raw materials Community Group' which existed for appr. one year until 2016. It was established under the 'Big Data Europe' project under the European Union's Horizon 2020 Programme. It mainly served the purpose to '[to identify the current as well the future Big Data challenges in the Climate domain](https://www.w3.org/community/bde-climate/2015/09/04/summary-of-1st-community-bde-sc5-workshop/)'. The outcomes would then be used to design and realise the ICT infrastructure needed to benefit from big data technologies, maximising the opportunities of the latest European RTD developments, including multilingual data harvesting, data analytics, and data visualisation. Although this community group was only short lived, continues and newer traces of climate thought can be found within W3C. Such as in 2019 when W3C's Technical Architecture Group released their ['Ethical Web Principles'](https://www.w3.org/2001/tag/doc/ethical-web-principles/#sustainable) which explicitly states: 'The web must be an environmentally sustainable platform'. These principles have been labelled as 'anticompetitive' within W3C and shows the competition of views within SDOs. A recently erupted debate around W3C efforts to standardise Decentralized Identifiers (DID), a prominent use case of the infamous non-fungible tokens (NFT). It started with the Mozilla Foundation's  [call to review](https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html) W3C's DID v1.0 in September 2021 as:
@@ -64,6 +67,7 @@ To which the responds of W3C's DID working group members was:
 
 None the less, it was agree to include a section on 'Environmental Considerations' in the [current draft](https://w3c.github.io/did-imp-guide/#environmental-considerations).
 
+Within W3C sustainability is often abbreviated with 's12y', just as internationalization ('i18n') and accessibility ('a11y').
 
 <!-- IETF -->
 The Internet Engineering Task Force (IETF) is among the most open and transparent Internet SDOs.
@@ -82,6 +86,11 @@ At present, the proposed energy-efficient methods are usually divided into two c
 Now, the ICT sector is in a similar situations and various 'ICT for Sustainability' ([ICT4S](https://conf.researchr.org/series/ict4s)) and Green IT initiatives have cropped up over the years. Thus
 
 And here, it is worthwhile to dwell on the what this space 'elsewhere' is. However, the observation that decreasing a processes resource intensity does not lead to a decrease in overall consumption, has already been described by Stanley Jevons in his 1865 work "The Coal Question". The so called "Jevons paradox" has since then always gone alongside the pursued to increasing efficiency and economic growth. Taking LEDs as an example, 'elsewhere' has come to be a very large space indeed. Their appr. 60% lower environmental impact than fluorescent luminaire [[12]](#12), and more so their impression of 'advanced technology', has motivated application to allsorts, e.g., [digital pregnancy tests](https://twitter.com/Foone/status/1301707401024827392).
+
+
+
+### Footnote
+<a id="ft-1">[ft-1]</a>
 
 ### References
 <a id="1">[1]</a>
@@ -138,4 +147,9 @@ Energy Management (EMAN) Applicability Statement
 <a id="3GPP-1">[3GPP-1]</a>
 https://blog.3g4g.co.uk/2010/10/3gpp-green-activities-energy-saving.html
 Published: 05/10/2010
+Accessed: 23/02/2022
+
+<a id="3GPP-2">[3GPP-2]</a>
+https://www.etsi.org/technologies/environmental-aspects
+Published: 2022
 Accessed: 23/02/2022

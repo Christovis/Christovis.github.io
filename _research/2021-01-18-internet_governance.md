@@ -13,3 +13,7 @@ BigBang is motivated by the fact, that discussions about norms and regulations o
 
 ### Thesis Project
 Feel free to contact me if you are interested in this projects and are eager to explore a treasure trove of hitherto unexplored communications data using natural language process or knowledge graph constructions.
+
+
+### Funding
+This project receives funding from the [Prototype Fund](https://prototypefund.de/project/bigbang/).
