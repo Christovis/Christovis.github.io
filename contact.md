@@ -6,7 +6,7 @@ title: Contact
 - University profile: [dur.ac.uk](https://www.dur.ac.uk/research/directory/staff/?id=16482) , [uva.nl](https://ibed.uva.nl/profile/b/e/c.becker/c.becker.html?origin=PhBA5%2FeKQZalU1qeDjma3Q)
 - GitHub: [christovis](https://github.com/Christovis)
 - Twitter: [@christ_ovis](https://twitter.com/christ_ovis)
-- E-mail: chrbecker01 AT gmail DOT com
+- E-mail: chrbecker01 [at] protonmail [dot] com
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

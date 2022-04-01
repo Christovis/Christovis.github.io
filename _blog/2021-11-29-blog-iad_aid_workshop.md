@@ -1,5 +1,5 @@
 ---
-title: Towards Environmental Sustainability with the IETF
+title: Climate Discourse in Internet Standards Organizations
 type: blog
 date: 2021-12-08
 imageurl: /assets/preview_ict_for_sustainability.png
@@ -9,11 +9,8 @@ authors: Christoph Becker
 
 > work in progress
 
-
-B. Bratton "this in turn may pyt the design of the *Earth* layer of The Stack in the untenable position of working on behalf of the exceptional emergencies that most threaten the platform's coherency, such that in the decades to come, the self-amplifying logics of ecological governance demand not only geoengineering, but also incredible computational energy capture-and-distribution megastructures far beyond our current capabilities." page 76
-
 <!-- Setting the stage for ICT -->
-Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, the transformation of society from an information to a sustainable future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch) is being imagined to use the same technology. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
+Information and communications technology (ICT) has played an important role in promoting the transition of society, technology, and economy from the industrial to the information era. Now, our society has to transform to minimise our environmental impact to ensure sustainable future (variously denoted as post-anthropocenic, -cthulucenic, or -capitalocenic epoch). This transformation if imagined to be dependent on and driven by the ICT. Reason being is, that ICT is said to increase the energy efficiency of the economy in general, which currently wastes appr. 86% of the produced energy [[3]](#3). For the energy sector specifically, it would enable a distributed and decentralised energy networks, which would shorten power transmission routes, decrease energy waste, and reduce greenhouse gas (GHG) emissions.
 
 
 <!-- Need to improve ICT -->
@@ -41,11 +38,10 @@ Before uncovering the histories of climate thought in the chosen SDOs, let's ske
 
 
 <!-- ITU -->
-All five standardisation bodies in the table have and are working towards a sustainable future. The International Telecommunication Union-Telecommunication Standardisation Sector (ITU-T) investigates within its Study Group 5 environmental effects of ICT and published guidelines for using ICT in an eco-friendly way. It is also responsible for studying design methodologies to reduce environmental effects. ITU-T L.1200 specifies the Direct Current interfaces while ITU-T L.1300 describes best practices to reduce negative impact of datacenters on climate.
-
+All five standardisation bodies in the table have and are working towards a sustainable future. The International Telecommunication Union-Telecommunication Standardisation Sector (ITU-T) is responsible, inter alia, for studying and issuing recommendations on questions regarding telecommunications and information communication technology. Within its [Study Group 5](https://www.itu.int/en/ITU-T/studygroups/2017-2020/05/Pages/default.aspx), which exists since 1997, it studies and recommends design methodologies to reduce environmental impacts of ICT. Examples of published standards are ITU-T [L.1200](https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11638), which specifies direct current interfaces, and ITU-T L.1300, which describes best practices to reduce negative impact of datacenter on climate. The work of ITU-T/SG5 is motivated by their conviction that ICT is a fundamental pillar in the response as they enable "monitoring climate change, mitigating and adapting". Such narrative derives from the belief that the natural environment needs to be managed and that "We can't manage what we can't monitore", to paraphrase the motto of the (now closed) Planetary Skin Institute set up by Cisco and National Aeronautics and Space Administration (NASA) n 2009. Thinkers like Benjamin Bratton oppose such narratives, as it imagines the natural environment is something to be policed, that carries the potential to position us the antecedent enemy of what is to come.
 
 <!-- 3GPP -->
-The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). Documented traces of a change in narrative that includes not just energy saving incentives to reduce costs for operators, but also a motivation to 'contribute to the protection of our environment and the environment of future generations' ([[3GPP-1]](#3GPP-1)) are starting to show up in 2009 with Release-10. This change is directly driven by operators wanting to create an 'environmental image' of themselves and indirectly by governments wanting to meet national and international treaties on climate change. Since then the focus has been on six different topics:
+The 3rd Generation Project Partnership (3GPP) was founded by the European Telecommunications Standards Institute (ETSI). Documented traces of a change in narrative that includes not just energy saving incentives to their OPEX (Operational Expenditure), but also a motivation to 'contribute to the protection of our environment and the environment of future generations' ([[3GPP-1]](#3GPP-1)) are starting to show up in 2009 with Release-10. This change is directly driven by operators wanting to create an 'environmental image' of themselves and indirectly by governments wanting to meet national and international treaties on climate change. Since then the focus has been on six different topics:
 - Telecommunication management; study on Energy Savings Management (ESM)
 - Operations And Management (OAM) aspects of Energy Saving in Radio Networks
 - Study impacts on 'User Equipment - Core network' signalling from Energy Saving
@@ -86,6 +82,8 @@ At present, the proposed energy-efficient methods are usually divided into two c
 Now, the ICT sector is in a similar situations and various 'ICT for Sustainability' ([ICT4S](https://conf.researchr.org/series/ict4s)) and Green IT initiatives have cropped up over the years. Thus
 
 And here, it is worthwhile to dwell on the what this space 'elsewhere' is. However, the observation that decreasing a processes resource intensity does not lead to a decrease in overall consumption, has already been described by Stanley Jevons in his 1865 work "The Coal Question". The so called "Jevons paradox" has since then always gone alongside the pursued to increasing efficiency and economic growth. Taking LEDs as an example, 'elsewhere' has come to be a very large space indeed. Their appr. 60% lower environmental impact than fluorescent luminaire [[12]](#12), and more so their impression of 'advanced technology', has motivated application to allsorts, e.g., [digital pregnancy tests](https://twitter.com/Foone/status/1301707401024827392).
+
+B. Bratton "this in turn may put the design of the *Earth* layer of The Stack in the untenable position of working on behalf of the exceptional emergencies that most threaten the platform's coherency, such that in the decades to come, the self-amplifying logics of ecological governance demand not only geoengineering, but also incredible computational energy capture-and-distribution megastructures far beyond our current capabilities." page 76
 
 
 
