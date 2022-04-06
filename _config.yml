@@ -38,9 +38,6 @@ collections:
   blog:
     output: true
     permalink: /blog/:name
-  messy_human:
-    output: true
-    permalink: /messy_human/:name
 
 defaults:
   -
@@ -76,10 +73,5 @@ defaults:
   -
     scope:
       type:         "blog"
-    values:
-      layout:       "post"
-  -
-    scope:
-      type:         "messy_human"
     values:
       layout:       "post"
