@@ -78,3 +78,8 @@ defaults:
       type:         "blog"
     values:
       layout:       "post"
+  -
+    scope:
+      type:         "messy_human"
+    values:
+      layout:       "post"
