@@ -15,3 +15,4 @@ authors: Christoph Becker
 - "Red Pill" by Hari Kunzru ([link](https://www.simonandschuster.co.uk/books/Red-Pill/Hari-Kunzru/9781471194504))
 - "Engines of Order: A Mechanology of Algorithmic Techniques" by Bernhard Rieder ([link](https://www.aup.nl/en/book/9789462986190/engines-of-order))
 - "The Data Gaze: Capitalism, Power and Perception" by David Beer ([link](https://uk.sagepub.com/en-gb/eur/the-data-gaze/book257707))
+- "Undoing Optimization: Civic Action in Smart Cities" by Alison B Powell ([link](https://yalebooks.yale.edu/book/9780300223804/undoing-optimization/))
