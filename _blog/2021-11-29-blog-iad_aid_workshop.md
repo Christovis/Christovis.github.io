@@ -66,6 +66,8 @@ To which the responds of W3C's DID working group members was:
 
 None the less, it was agree to include a section on 'Environmental Considerations' in the [current draft](https://w3c.github.io/did-imp-guide/#environmental-considerations).
 
+The [Sustainable Web Design community group](https://www.w3.org/community/sustyweb/) exists since 2013 and focuses on "integration of many areas of design and development into an overarching framework maximizing energy efficiency, lowering environmental impact, and raising inclusiveness."
+
 Within W3C sustainability is often abbreviated with 's12y', just as internationalization ('i18n') and accessibility ('a11y').
 
 <!-- IETF -->
