@@ -1,7 +1,7 @@
 ---
 title: The Books I Read in 2022
 type: blog
-date: 2021-12-31
+date: 2021-04-14
 authors: Christoph Becker
 ---
 
