@@ -23,7 +23,7 @@ Coverage: [+++++\_\_\_\_\_]
 
 "Database of Dreams: The Lost Quest to Catalog Humanity"<br/>
 by Rebecca Lemov ([link](https://yalebooks.yale.edu/book/9780300209525/database-dreams/))<br/>
-Coverage: [++++\_______]
+Coverage: [++++\_\_\_\_\_\_\_]
 
 "Data Feminism"<br/>
 by Catherine D'Ignazio and Lauren F. Klein ([link](https://mitpress.mit.edu/books/data-feminism))<br/>
@@ -43,15 +43,15 @@ Coverage: [++++++++++]
 
 "Undoing Optimization: Civic Action in Smart Cities"<br/>
 by Alison B Powell ([link](https://yalebooks.yale.edu/book/9780300223804/undoing-optimization/))<br/>
-Coverage: [++++______]
+Coverage: [++++\_\_\_\_\_\_]
 
 "Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up"<br/>
 by Philip N. Howard ([link](https://yalebooks.yale.edu/book/9780300199475/pax-technica/))<br/>
-Coverage: [++++______]
+Coverage: [++++\_\_\_\_\_\_]
 
 "Disciplining Statistics: Demography and Vital Statistics in France and England, 1830–1885"<br/>
 by Libby Schweber ([link](https://read.dukeupress.edu/books/book/2111/Disciplining-StatisticsDemography-and-Vital))<br/>
-Coverage: [++++______]
+Coverage: [++++\_\_\_\_\_\_]
 
 ---------------------------------------
 
