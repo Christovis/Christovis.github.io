@@ -19,11 +19,11 @@ Coverage: [++++++++++]
 
 "The Stack: On Software and Sovereignty"<br/>
 by Benjamin H. Bratton ([link](https://mitpress.mit.edu/books/stack))<br/>
-Coverage: [+++++-----]
+Coverage: [+++++_____]
 
 "Database of Dreams: The Lost Quest to Catalog Humanity"<br/>
 by Rebecca Lemov ([link](https://yalebooks.yale.edu/book/9780300209525/database-dreams/))<br/>
-Coverage: [+++-------]
+Coverage: [++++_______]
 
 "Data Feminism"<br/>
 by Catherine D'Ignazio and Lauren F. Klein ([link](https://mitpress.mit.edu/books/data-feminism))<br/>
@@ -35,7 +35,7 @@ Coverage: [++++++++++]
 
 "Engines of Order: A Mechanology of Algorithmic Techniques"<br/>
 by Bernhard Rieder ([link](https://www.aup.nl/en/book/9789462986190/engines-of-order))<br/>
-Coverage: [++++------]
+Coverage: [++++______]
 
 "The Data Gaze: Capitalism, Power and Perception"<br/>
 by David Beer ([link](https://uk.sagepub.com/en-gb/eur/the-data-gaze/book257707))<br/>
@@ -43,15 +43,17 @@ Coverage: [++++++++++]
 
 "Undoing Optimization: Civic Action in Smart Cities"<br/>
 by Alison B Powell ([link](https://yalebooks.yale.edu/book/9780300223804/undoing-optimization/))<br/>
-Coverage: [++++------]
+Coverage: [++++______]
 
 "Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up"<br/>
 by Philip N. Howard ([link](https://yalebooks.yale.edu/book/9780300199475/pax-technica/))<br/>
-Coverage: [++++------]
+Coverage: [++++______]
 
 "Disciplining Statistics: Demography and Vital Statistics in France and England, 1830–1885"<br/>
 by Libby Schweber ([link](https://read.dukeupress.edu/books/book/2111/Disciplining-StatisticsDemography-and-Vital))<br/>
-Coverage: [++++------]
+Coverage: [++++______]
+
+---------------------------------------
 
 "Red Pill"<br/>
 by Hari Kunzru ([link](https://www.simonandschuster.co.uk/books/Red-Pill/Hari-Kunzru/9781471194504))<br/>
