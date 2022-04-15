@@ -5,7 +5,7 @@ date: 2021-12-31
 authors: Christoph Becker
 ---
 
-# <ins>**Digital Platforms for Political Participations**</ins>
+### <ins>**Digital Platforms for Political Participations**</ins>
 
 * "Problem Spaces: How and Why Methodology Matters"<br/>
 by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-spaces-how-and-why-methodology-matters--9781509507931))
@@ -19,7 +19,7 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
     by Alison B Powell ([link](https://yalebooks.yale.edu/book/9780300223804/undoing-optimization/))
     * Coverage: [++++\_\_\_\_\_\_]
 
-# <ins>**Energy Transition**</ins>
+### <ins>**Energy Transition**</ins>
 
 * "Thinking Like a Climate: Governing a City in Times of Environmental Change"<br/>
     by Hannah Knox ([link](https://www.dukeupress.edu/thinking-like-a-climate))
@@ -29,7 +29,7 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
     by Richard Rhodes ([link](https://www.simonandschuster.co.uk/books/Energy/Richard-Rhodes/9781501105364))
     * Coverage: [++++++++++]
 
-# <ins>**Internet Governance**</ins>
+### <ins>**Internet Governance**</ins>
 
 * "The Stack: On Software and Sovereignty"<br/>
     by Benjamin H. Bratton ([link](https://mitpress.mit.edu/books/stack))
@@ -40,7 +40,7 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
     * Coverage: [++++\_\_\_\_\_\_]
 
 
-# <ins>**Miscellaneous**</ins>
+### <ins>**Miscellaneous**</ins>
 
 * "Database of Dreams: The Lost Quest to Catalog Humanity"<br/>
     by Rebecca Lemov ([link](https://yalebooks.yale.edu/book/9780300209525/database-dreams/))
