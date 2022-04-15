@@ -7,10 +7,12 @@ authors: Christoph Becker
 
 #<ins>**Internet Governance**</ins>
 
-* "Cyberspace: First Steps" edited by Michael Benedikt
+* "Cyberspace: First Steps"<br/>
+    edited by Michael Benedikt
     * Coverage: [+++\_\_\_\_\_\_\_]
 
-* "Medium Design: Knowing How to Work on the World" by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))
+* "Medium Design: Knowing How to Work on the World"<br/>
+    by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))
     * Coverage: [++++++++++]
 
 #<ins>**Energy Transition**</ins>
@@ -23,7 +25,7 @@ Coverage: [+++\_\_\_\_\_\_\_]
 
 #<ins>**Computational Linguistics**</ins>
 
-"Introduction to Information Retrieval""<br/>
+"Introduction to Information Retrieval"<br/>
 by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze ([link](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C#overview))<br/>
 Coverage: [++++\_\_\_\_\_\_]
 
