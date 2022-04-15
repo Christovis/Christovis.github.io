@@ -5,6 +5,8 @@ date: 2022-04-14
 authors: Christoph Becker
 ---
 
+I have started listing the books that I have read during the year, to give a partial account of the what influences and guides my own thinking. I’ve grouped the books according to the projects I was thinking about when picking them up. However, in retrospect these categories are in many ways overlapping and arbitrary).
+
 ### **Internet Governance**
 
 * "Cyberspace: First Steps"<br/>
