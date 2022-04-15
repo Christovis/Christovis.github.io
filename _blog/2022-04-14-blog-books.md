@@ -8,10 +8,10 @@ authors: Christoph Becker
 #<ins>**Internet Governance**</ins>
 
 * "Cyberspace: First Steps" edited by Michael Benedikt
-** Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [+++\_\_\_\_\_\_\_]
 
 * "Medium Design: Knowing How to Work on the World" by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))
-** Coverage: [++++++++++]
+    * Coverage: [++++++++++]
 
 #<ins>**Energy Transition**</ins>
 
@@ -19,7 +19,7 @@ authors: Christoph Becker
 Coverage: [+++\_\_\_\_\_\_\_]
 
 * "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism" by Jesse Goldstein ([link](https://mitpress.mit.edu/books/planetary-improvement))
-** Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [+++\_\_\_\_\_\_\_]
 
 #<ins>**Computational Linguistics**</ins>
 
