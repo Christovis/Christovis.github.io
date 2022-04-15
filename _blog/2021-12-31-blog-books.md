@@ -19,11 +19,11 @@ Coverage: [++++++++++]
 
 "The Stack: On Software and Sovereignty"<br/>
 by Benjamin H. Bratton ([link](https://mitpress.mit.edu/books/stack))<br/>
-Coverage: [+++++_____]
+Coverage: [+++++\_\_\_\_\_]
 
 "Database of Dreams: The Lost Quest to Catalog Humanity"<br/>
 by Rebecca Lemov ([link](https://yalebooks.yale.edu/book/9780300209525/database-dreams/))<br/>
-Coverage: [++++_______]
+Coverage: [++++\_______]
 
 "Data Feminism"<br/>
 by Catherine D'Ignazio and Lauren F. Klein ([link](https://mitpress.mit.edu/books/data-feminism))<br/>
@@ -35,7 +35,7 @@ Coverage: [++++++++++]
 
 "Engines of Order: A Mechanology of Algorithmic Techniques"<br/>
 by Bernhard Rieder ([link](https://www.aup.nl/en/book/9789462986190/engines-of-order))<br/>
-Coverage: [++++______]
+Coverage: [++++\_\_\_\_\_\_]
 
 "The Data Gaze: Capitalism, Power and Perception"<br/>
 by David Beer ([link](https://uk.sagepub.com/en-gb/eur/the-data-gaze/book257707))<br/>
