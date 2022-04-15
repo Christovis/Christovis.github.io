@@ -7,23 +7,19 @@ authors: Christoph Becker
 
 #<ins>**Internet Governance**</ins>
 
-"Cyberspace: First Steps"<br/>
-edited by Michael Benedikt<br/>
-Coverage: [+++\_\_\_\_\_\_\_]
+* "Cyberspace: First Steps" edited by Michael Benedikt
+** Coverage: [+++\_\_\_\_\_\_\_]
 
-"Medium Design: Knowing How to Work on the World"<br/>
-by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))<br/>
-Coverage: [++++++++++]
+* "Medium Design: Knowing How to Work on the World" by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))
+** Coverage: [++++++++++]
 
 #<ins>**Energy Transition**</ins>
 
-"Climate Leviathan: A Political Theory of Our Planetary Future"<br/>
-by Geoff Mann and Joel Wainwright ([link](https://www.versobooks.com/books/3138-climate-leviathan))<br/>
+"Climate Leviathan: A Political Theory of Our Planetary Future" by Geoff Mann and Joel Wainwright ([link](https://www.versobooks.com/books/3138-climate-leviathan))
 Coverage: [+++\_\_\_\_\_\_\_]
 
-"Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
-by Jesse Goldstein ([link](https://mitpress.mit.edu/books/planetary-improvement))<br/>
-Coverage: [+++\_\_\_\_\_\_\_]
+* "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism" by Jesse Goldstein ([link](https://mitpress.mit.edu/books/planetary-improvement))
+** Coverage: [+++\_\_\_\_\_\_\_]
 
 #<ins>**Computational Linguistics**</ins>
 
@@ -36,7 +32,7 @@ by Victor Klemperer ([link](https://www.reclam.de/detail/978-3-15-020624-9/Klemp
 Coverage: [+++\_\_\_\_\_\_\_]
 
 
-#<ins>**Miscellaneous<**/ins>
+#<ins>**Miscellaneous**</ins>
 
 "Monday Begins on Saturday"<br/>
 by Arkady Strugatsky and Boris Strugatsky ([link](https://en.wikipedia.org/wiki/Monday_Begins_on_Saturday))<br/>
