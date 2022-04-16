@@ -10,44 +10,47 @@ I have started listing the books that I have read during the year, to give a par
 ### **Internet Governance**
 
 * "Cyberspace: First Steps"<br/>
-    edited by Michael Benedikt
+    edited by Michael Benedikt; ISBN-13: 9780262521772
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 * "Medium Design: Knowing How to Work on the World"<br/>
-    by Keller Easterling ([link](https://www.versobooks.com/books/3245-medium-design))
+    by Keller Easterling; ISBN-13: 9781788739320
     * Coverage: [++++++++++]
+
+* "Protocol Politics: The Globalization of Internet Governance"<br/>
+    by Laura DeNardis; ISBN-13: 9780262042574
 
 ### **Energy Transition**
 
 * "Climate Leviathan: A Political Theory of Our Planetary Future"<br/>
-    by Geoff Mann and Joel Wainwright ([link](https://www.versobooks.com/books/3138-climate-leviathan))
+    by Geoff Mann and Joel Wainwright; ISBN-13: 9781786634450
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 * "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
-    by Jesse Goldstein ([link](https://mitpress.mit.edu/books/planetary-improvement))
+    by Jesse Goldstein; ISBN-13: 9780262037822
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 ### **Computational Linguistics**
 
 * "Introduction to Information Retrieval"<br/>
-    by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze ([link](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C#overview))
+    by Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schütze; ISBN-13: 9780521865715
     * Coverage: [++++\_\_\_\_\_\_]
 
 * "Lingua Tertii Imperii: Notizbuch eines Philologen"<br/>
-    by Victor Klemperer ([link](https://www.reclam.de/detail/978-3-15-020624-9/Klemperer__Victor/LTI))
+    by Victor Klemperer; ISBN-13: 9783150206249
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 
 ### **Miscellaneous**
 
 * "Monday Begins on Saturday"<br/>
-    by Arkady Strugatsky and Boris Strugatsky ([link](https://en.wikipedia.org/wiki/Monday_Begins_on_Saturday))
+    by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9781473202214
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 * "Roadside Picnic"<br/>
-    by Arkady Strugatsky and Boris Strugatsky ([link](https://en.wikipedia.org/wiki/Roadside_Picnic))
+    by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9780575093133
     * Coverage: [+++\_\_\_\_\_\_\_]
 
 * "One Billion Years to the End of the World"<br/>
-    by Arkady Strugatsky and Boris Strugatsky ([link](https://www.penguin.co.uk/books/320/320603/one-billion-years-to-the-end-of-the-world/9780241472477.html))
+    by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9780241472477
     * Coverage: [+++\_\_\_\_\_\_\_]

@@ -84,6 +84,10 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
     by Mary Shelley and edited by David H. Guston, Ed Finn and Jason Scott Robert ([link](https://mitpress.mit.edu/books/frankenstein))
     * Coverage: [++++++++++]
 
+* "We"<br/>
+    by Yevgeny Zamyatin; ISBN-13: 9780140185850
+    * Coverage: [++++++++++]
+
 * "The Debatable Land: The Lost World Between Scotland and England"<br/>
     by Graham Robb ([link](https://www.panmacmillan.com/authors/graham-robb/the-debatable-land/9781509804719))
     * Coverage: [++++++++++]

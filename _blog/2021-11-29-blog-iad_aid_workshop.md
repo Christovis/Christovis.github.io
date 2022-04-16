@@ -25,16 +25,16 @@ In this short article, I want to explore how standards-developing organisations 
 <!-- TCP/IP protocol stack -->
 Before uncovering the histories of climate thought in the chosen SDOs, let's sketch the essential parts of the Internet to gain an overview of where potential improvements can be made. The most universal, high-level, and persistent element of structure and organisation is the network architecture. The architecture defines how sets of protocols are organised, where protocols define how various modules interact. For the current Internet, the architecture design is the TCP/IP protocol stack (also referred to as the hourglass protocol stack). Although in theory each protocol belongs to one layer in the stack, in practice protocols were required that can 'overlay' between different layers. Thus, even though the image of a tidy stack of separate sets of protocols is outdated, I will list it here as it is what we currently have to work with. As a side note, notable research projects that study new architecture designs are SCION, RINA and NDN.
 
-| Layer         | SDO          | Standards
-| ------------- | ------------ | ---------------
-| 4 Application | IETF         | HTTP, HTML, MIME, POP, IMAP, SMTP, DNS, SSH
-|               | W3C          | HTTP, HTML, XML
-|               | ITU-T        | JPEG
-| 3 Transport   | IETF         | TCP, UDP, TLS, QUIC
-| 2 Internet    | IETF         | IPv4, IPv6, ICMP, ECM, Seamoby
-| 1 Network     | IEEE         | Ethernet, WiFi
-|               | ITU-T        | ISDN, DSL
-|               | 3GPP         | 2G/3G/4G/5G
+| Layer          | SDO          | Standards
+| -------------- | ------------ | ---------------
+| 4 Application  | IETF         | HTTP, HTML, MIME, POP, IMAP, SMTP, DNS, SSH
+|                | W3C          | HTTP, HTML, XML
+|                | ITU-T        | JPEG
+| 3 Transport    | IETF         | TCP, UDP, TLS, QUIC
+| 2 Internet     | IETF         | IPv4, IPv6, ICMP, ECM, Seamoby
+| 1 Network/Link | IEEE         | Ethernet, WiFi
+|                | ITU-T        | ISDN, DSL
+|                | 3GPP         | 2G/3G/4G/5G
 
 <!-- ISO -->
 ISO GUIDE 84:2020
