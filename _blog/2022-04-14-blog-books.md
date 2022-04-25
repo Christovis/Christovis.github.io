@@ -20,6 +20,9 @@ I have started listing the books that I have read during the year, to give a par
 * "Protocol Politics: The Globalization of Internet Governance"<br/>
     by Laura DeNardis; ISBN-13: 9780262042574
 
+* "ICT Innovations for Sustainability"<br/>
+    edited by Lorenz M. Hilty and Bernard Aebischer; ISBN-13: 9783319092287
+
 ### **Energy Transition**
 
 * "Climate Leviathan: A Political Theory of Our Planetary Future"<br/>
@@ -29,6 +32,14 @@ I have started listing the books that I have read during the year, to give a par
 * "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
     by Jesse Goldstein; ISBN-13: 9780262037822
     * Coverage: [+++\_\_\_\_\_\_\_]
+
+* "Savage Ecology: War and Geopolitics at the End of the World"<br/>
+    by Jairus Victor Grove; ISBN-13: 9781478004219
+    * Coverage: [+\_\_\_\_\_\_\_\_]
+
+* "Environmentality: Technologies of Government and the Making of Subjects"<br/>
+    by Arun Agrawal; ISBN-13: 9780822386421
+    * Coverage: [+\_\_\_\_\_\_\_\_]
 
 ### **Computational Linguistics**
 
