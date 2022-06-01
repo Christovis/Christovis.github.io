@@ -860,6 +860,9 @@ fmap (g . f) (Cons a as) = Cons ((g . f) a) (fmap (g . f) as)    -- def of fmap
 
 # 8. Functoriality
 [Custom foo description](#foo)
+[Test section link](#4.-kleisli-functions)
+
+[Test subsection link](#4.2-writer-in-haskell)
 
 ## 8.1 Bifunctors
 
