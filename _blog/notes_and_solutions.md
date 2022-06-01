@@ -307,7 +307,7 @@ Our morphisms are subset relations. Every set includes itself, $A \subseteq A$. 
 - b) C++ types with the following subtyping relation: T1 is a sub-type of T2 if a pointer to T1 can be passed to a function that expects a pointer to T2 without triggering a compilation error.
 
 
-# 4. Kleisli Functions
+# 4 Kleisli Functions
 ________________________________________________________________________________
 
 It is quite strange that Kleisli functions are itroduced in the book before, e.g., isomorphisms or other concepts generally introduced beforehand in other books.
@@ -321,7 +321,7 @@ call-by-value functions with side-effects and computation.
 > [[CH]](#CH), page 75:<br/>
 > Every *monad* defines a new category, called the *Kleisli category*.
 
-## 4.2 Writer in Haskell
+## 4-2 Writer in Haskell
 Here is an example on a possible application of a Kleisli category used for logging, memoization, or tracing the execution of functions. A Kleisli category for this purpose is also called *the writer monad*. We start by defining a costume type, which can be wrapped around functions and write something to a log file,
 ```
 type Writer a = (a, String)
@@ -860,9 +860,9 @@ fmap (g . f) (Cons a as) = Cons ((g . f) a) (fmap (g . f) as)    -- def of fmap
 
 # 8. Functoriality
 [Custom foo description](#foo)
-[Test section link](#4.-kleisli-functions)
+[Test section link](#4-kleisli-functions)
 
-[Test subsection link](#4.2-writer-in-haskell)
+[Test subsection link](#4-2-writer-in-haskell)
 
 ## 8.1 Bifunctors
 
