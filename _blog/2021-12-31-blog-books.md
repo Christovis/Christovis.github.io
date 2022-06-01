@@ -35,7 +35,7 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
 
 * "The Stack: On Software and Sovereignty"<br/>
     by Benjamin H. Bratton ([link](https://mitpress.mit.edu/books/stack))
-    * Coverage: [+++++\_\_\_\_\_]
+    * Coverage: [++++++\_\_\_\_]
 
 * "Pax Technica: How the Internet of Things May Set Us Free or Lock Us Up"<br/>
     by Philip N. Howard ([link](https://yalebooks.yale.edu/book/9780300199475/pax-technica/))

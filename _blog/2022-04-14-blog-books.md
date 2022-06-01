@@ -18,10 +18,16 @@ I have started listing the books that I have read during the year, to give a par
     * Coverage: [++++++++++]
 
 * "Protocol Politics: The Globalization of Internet Governance"<br/>
-    by Laura DeNardis; ISBN-13: 9780262042574
+    by Laura DeNardis; ISBN-13: 9780262072472
+    * Coverage: [+++\_\_\_\_\_\_\_]
+
+* "Protocol: How Control Exists after Decentralization"<br/>
+    by Alexander R. Galloway; ISBN-13: 9780262042574
+    * Coverage: [+\_\_\_\_\_\_\_\_\_]
 
 * "ICT Innovations for Sustainability"<br/>
     edited by Lorenz M. Hilty and Bernard Aebischer; ISBN-13: 9783319092287
+    * Coverage: [+++\_\_\_\_\_\_\_]
 
 ### **Energy Transition**
 
