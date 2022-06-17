@@ -1,3 +1,10 @@
+---
+title: Category Theory for Programmers - Part I
+type: blog
+date: 2022-06-15
+authors: Christoph Becker
+---
+
 These notes serve the following purpose. Firstly, they list and summaries
 important concepts in Category Theory and how they can be expressed in Haskell.
 Secondly, the book content is compared to other books I am reading in parallel.
