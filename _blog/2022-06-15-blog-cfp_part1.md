@@ -289,11 +289,13 @@ As booleans values `True` and `False` can be associated to $1$ and $0$, the bool
 :
 
 **Hom-set**
-: A set of morphisms from object $a$ to object $b$ in a category $\mathcal{C}$ is called a homset and is written as $\mathcal{C}(a,b)$ (or, sometimes,  $\text{Hom}\mathcal{C}(a,b)$).
+: A set of morphisms from object $a$ to object $b$ in a category $\mathcal{C}$ is called a homset and is written as $\mathcal{C}(a,b)$ (or, sometimes,  $\Hom\mathcal{C}(a,b)$).
 
 ## 3-4 3-5 Monoid as Set and Category
 
-Monoid are ubiquitous in programming, showing up as `Char`, `List`, recursive data structures, futures in concurrent programming, and so on. They are categories, $\mathcal{C}$, with just one object, $* \in \mathcal{C}$, such that there is only one homset, $\text{Hom}\mathcal{C}(*,*)$, which is the identity morphism, $\text{id}_*: * \to *$. Some refer to a monoid as a singleton category, which acts analogous to a singleton set (which was introduced in [Section 2-6](#2-6-examples-of-types)), meaning that a *functor* (functors are introduced in [Chapte 7](#7-functors)) from a monoid to any other category selects an object in that category.
+Monoid are ubiquitous in programming, showing up as `Char`, `List`, recursive data structures, futures in concurrent programming, and so on. They are categories, $\mathcal{C}$, with just one object, $* \in \mathcal{C}$, such that there is only one homset, $\Hom\mathcal{C}(*,*)$, which is the identity morphism, $\text{id}_*: * \to *$. Some refer to a monoid as a singleton category, which acts analogous to a singleton set (which was introduced in [Section 2-6](#2-6-examples-of-types)), meaning that a *functor* (functors are introduced in [Chapte 7](#7-functors)) from a monoid to any other category selects an object in that category.
+
+Monoidal categories have been used to formalise the use of networks in computation and reasoning—amongst others, applications include circuit diagrams, Markov processes, quantum computation, and dynamical systems.
 
 ## 2-6 Examples of Types
 
@@ -511,7 +513,7 @@ The table below lists some examples of duality. Most of them weren't introduced 
 
 Table 5-3-1: Some examples of duality.
 
-Note that monoidal categories, $\mathcal{C}(*)$, are equal to their opposite category, $\mathcal{C}^{\text{op}}$, as there is only one homset, $\text{Hom}\mathcal{C}(*,*)$,  which is the identity morphism, $\text{id}_* = \text{id}^{\text{op}}_*$.
+Note that monoidal categories, $\mathcal{C}(*)$, are equal to their opposite category, $\mathcal{C}^{\text{op}}$, as there is only one homset, $\Hom\mathcal{C}(*,*)$,  which is the identity morphism, $\text{id}_* = \text{id}^{\text{op}}_*$.
 
 ## 5-4 Isomorphisms
 
@@ -549,7 +551,7 @@ In terms of Haskell, the cartesian product, $x \times y$, is a tuple `(x,y)`, an
 
 The important lesson here, which is useful for thinking about programming, is about solving functions as $h: a \to x \times y$: to compute a cartesian product $x \times y$ we can decompose it into a pair of functions that we can easily solve, $f: a \to x$ and $g: a \to y$. In other words, through the universal property of products we have a one-to-one correspondence between
 
-$\text{Hom}\mathcal{C}(a, x \times y) \cong \text{Hom}\mathcal{C}(a, x) \times \text{Hom}\mathcal{C}(a, y)$,
+$\Hom\mathcal{C}(a, x \times y) \cong \Hom\mathcal{C}(a, x) \times \Hom\mathcal{C}(a, y)$,
 
 which in Haskell means that `a -> (x,y)` is isomorphic to `(a -> x, a -> y)`.Such decomposition is a common theme in using universal properties for structuring programs. Its helpful to explicitly write down the isomorphism between the two types. In one direction, we have the function `tuple`,
 ```
@@ -586,7 +588,7 @@ In the category of sets, the coproduct is the *disjoint union* of two sets. An e
 
 Similar to the lesson we learned about products, the coproduct is important for solving functions like $h: x + y \to a$: to compute it we can decompose it into a pair of functions that we can solve more easily, $f: x \to a$ and $g: y \to a$. In other words, through the universal property of coproducts we have a one-to-one correspondence between
 
-$\text{Hom}\mathcal{C}(x + y, a) \cong \text{Hom}\mathcal{C}(x, a) \times \text{Hom}\mathcal{C}(y, a)$.
+$\Hom\mathcal{C}(x + y, a) \cong \Hom\mathcal{C}(x, a) \times \Hom\mathcal{C}(y, a)$.
 
 Explain the $\times$ instead of a $+$ in the equation above!!!
 
@@ -836,7 +838,7 @@ The way functors relate to each other is known as *natural transformations*.
 >
 > The above constituents must satisfy two properties, 'the functor laws':</br>
 > (a) Preserve identity: for every object $c \in \text{Ob}(\mathcal{C})$, we have $F(\text{id}_c) = \text{id}_{F(c)}$;</br>
-> (b) Preserve composition: for every three objects $c_1, c_2, c_3 \in \text{Ob}(\mathcal{C})$ and two morphisms $f \in \text{Hom}\mathcal{C}(c_1, c_2)$, $g \in \text{Hom}\mathcal{C}(c_2, c_3)$, in other words $f: c_1 \to c_2$ and $g: c_2 \to c_3$ respectively, the equation $F g \circ F f = F(g \circ f)$ holds.
+> (b) Preserve composition: for every three objects $c_1, c_2, c_3 \in \text{Ob}(\mathcal{C})$ and two morphisms $f \in \Hom\mathcal{C}(c_1, c_2)$, $g \in \Hom\mathcal{C}(c_2, c_3)$, in other words $f: c_1 \to c_2$ and $g: c_2 \to c_3$ respectively, the equation $F g \circ F f = F(g \circ f)$ holds.
 
 There are a number of commonly used functors, which we are going to list here and explain in more detail later:
 
@@ -882,7 +884,17 @@ Haskell's Prelude provides a `Functor` type class, capturing the general pattern
 class Functor f where
     fmap :: (a -> b) -> f a -> f b
 ```
-such that we can rewrite the examples listed above to be an instance of this class.
+such that we can rewrite the examples listed above to be an instance of this class. Other means of implementing functors are possible, but this is the most convenient way to do so. An common operation that one uses in many programming languages without referring to it as a functor is `map`:
+```
+λ> map (\x -> x > 3) [1..6]
+[False,False,False,True,True,True]
+```
+which works just as our `Functor` typeclass
+```
+λ> fmap (\x -> x > 3) [1..6]
+[False,False,False,True,True,True]
+```
+
 
 ### 7-1-2 Equational Reasoning
 
@@ -1154,7 +1166,7 @@ class Contravariant f where
 $H_F: \mathcal{C} \times \mathcal{D}^{\text{op}} \to \mathbf{Set}$,</br>
 > which can also be written as $F: \mathcal{C} \nrightarrow \mathcal{D}$.
 
-A endo-profunctor is $H_F: \mathcal{C} \times \mathcal{C}^{\text{op}} \to \mathbf{Set}$, which generalizes hom-functors $\text{Hom}\mathcal{C}: \mathcal{C} \times \mathcal{C}^{\text{op}} \to \mathbf{Set}$, which will be discussed more in the next section.
+A endo-profunctor is $H_F: \mathcal{C} \times \mathcal{C}^{\text{op}} \to \mathbf{Set}$, which generalizes hom-functors $\Hom\mathcal{C}: \mathcal{C} \times \mathcal{C}^{\text{op}} \to \mathbf{Set}$, which will be discussed more in the next section.
 
 Profunctors can generalize functors.
 
@@ -1345,7 +1357,9 @@ Skip
 # 9 Function Types
 ________________________________________________________________________________
 
-Function types can also be seen as existing in sets, such that $\text{Hom}\mathcal{C}(a,b) \in \mathbf{Set}$. Since we can talk of functions as being sets themselves, we can reinterpret $z(a)$ as a product of two sets $z \times a$, and instead of writing $z: a \to b$ we have another function $g$ that acts on the product as $g: z \times a \to b$.
+Function types can also be seen as existing in sets, such that $\Hom\mathcal{C}(a,b) \in \mathbf{Set}$. Since we can talk of functions as being sets themselves, we can reinterpret $z(a)$ as a product of two sets $z \times a$, and instead of writing $z: a \to b$ we have another function $g$ that acts on the product as $g: z \times a \to b$.
+
+Haskell is build around this conception and you can read more about the practical side in [[RWH]](#RWH) Section "Functions Are Data, Too" page 303.
 
 ## 9-1 Universal Construction
 
@@ -1361,7 +1375,7 @@ Since these universal properties are so central to type and category theory, cor
 
 
 In this section, the important lesson is that functions between two sets, $z: a \to b$, can be understood as another set living in the category of Haskell types, $\mathbf{Hask}$. This perspective uses three objects:
-- function type, $z = \text{Hom}\mathcal{C}(a,b)$, which is an object containing a function $f$
+- function type, $z = \Hom\mathcal{C}(a,b)$, which is an object containing a function $f$
 - argument type, $a$, which is an object containing an element $x$, and
 - result type, $b$, which is an object containing an element, $f(x)$
 
@@ -1396,17 +1410,17 @@ More notes on exponentials:
 
 ## 9-3 Exponentials
 
-The function type, $z = \text{Hom}\mathcal{C}(a,b)$, which can be mapped to $(a \implies b)$ is often called the *exponential*, denoted as $b^a$. Just as products satisfy the universal property (see [Section 5-5](#5-5-products))
+The function type, $z = \Hom\mathcal{C}(a,b)$, which can be mapped to $(a \implies b)$ is often called the *exponential*, denoted as $b^a$. Just as products satisfy the universal property (see [Section 5-5](#5-5-products))
 
-$\text{Hom}\mathcal{C}(a, x \times y) \cong \text{Hom}\mathcal{C}(a, x) \times \text{Hom}\mathcal{C}(a, y)$,
+$\Hom\mathcal{C}(a, x \times y) \cong \Hom\mathcal{C}(a, x) \times \Hom\mathcal{C}(a, y)$,
 
 and coproducts satisfy the universal property (see [Section 5-6](#5-6-coproduct))
 
-$\text{Hom}\mathcal{C}(x + y, a) \cong \text{Hom}\mathcal{C}(x, a) \times \text{Hom}\mathcal{C}(y, a)$.
+$\Hom\mathcal{C}(x + y, a) \cong \Hom\mathcal{C}(x, a) \times \Hom\mathcal{C}(y, a)$.
 
 exponential satisfy the universal property (using Definition 5.1 from the previous Section)
 
-$\text{Hom}\mathcal{C}(x \times y, a) \cong \text{Hom}\mathcal{C}(x, a^y)$.
+$\Hom\mathcal{C}(x \times y, a) \cong \Hom\mathcal{C}(x, a^y)$.
 
 > [[PC]](#PC), Definition 2.57, page 58:</br>
 > Let $A, B \in \mathcal{C}$ be objects in a cartesian category. An object $B^A$, equipped with a morphism $\text{eval}_{A,B}: B^A \times A \to B$, is called an *exponential* or *function object/type* for morphisms $A$ to $B$ if it has the following universal property:
@@ -1453,6 +1467,8 @@ $(a \times b)^c = a^c \times b^c$
 # 10 Natural Transformations
 ________________________________________________________________________________
 
+We talked about functors as a means of lifting functions over structure so that we may transform only the contents, leaving the structure alone (`fmap :: (a -> b) -> f a -> f b`). What if we wanted to transform only the structure and leave the type argument to that structure or type constructor alone? With this, we’ve arrived at natural transformations!
+
 > [[CH]](#CH), Definition 1.10, page 15:</br>
 > Let $\mathcal{C}$ and $\mathcal{D}$ be categories, and let $F,G: \mathcal{C} \to \mathcal{D}$ be two functors. A *natural transformation* $\alpha$ from $\mathcal{C}$ to $\mathcal{D}$, is a set of morphisms:</br>
 > $\alpha = \{\alpha_a: Fa \to Ga \, | \, a \in \Ob(\mathcal{C}) \}$,</br>
@@ -1460,11 +1476,18 @@ ________________________________________________________________________________
 > <img src="./imgs/definition_10_0_natural_trans.png" alt="Answer to 2.7.6" style="height:200px;"/>
 Figure 10-0-1
 >
-> commutes. The red square diagram inside $\mathcal{D}$ is called the *naturality square* or *naturality condition*. We write $\alpha: F \implies G$, and call $\alpha_a$ *the component of* $\alpha$ *at* $a$.
-
-The cool thing is, just as the exponential $z = \text{Hom}\mathcal{C}(a,b)$ is a set of morphisms between two sets in the same category, do the functors from $\mathcal{C} \implies \mathcal{D}$ form a category. And we can compose those categories of functor! Let $\alpha: \mathcal{C} \implies \mathcal{D}$ and $\beta: \mathcal{D} \implies \mathcal{E}$, then we have $\alpha \circ \beta: \mathcal{C} \implies \mathcal{E}$, defined by $(\alpha_a \circ \beta_a) = \alpha_a \circ \beta_a$.
+> commutes. The red square diagram inside $\mathcal{D}$ is called the *naturality square* or *naturality condition*,</br>
+> $Gf \circ \alpha_a = \alpha_b \circ Ff$.</br>
+> We write $\alpha: F \implies G$, and call $\alpha_a$ *the component of* $\alpha$ *at* $a$.
 
 As mentioned earlier, we can't implement concepts from category theory one-to-one in Haskell. Thus, also for the natural condition we only define  the category of functors, one for every type, since Haskell can't proof the naturality condition.
+
+In Haskell, one kind of natural transformation is implement in the `natural-transformation` package, which transforms a container type `f a` into another container `g a`,
+```
+{-# LANGUAGE RankNTypes #-}
+
+type natTrans f g = forall a . f a -> g a
+```
 
 Read more in:
 - [[PC]](#PC), Section 3.5, page 88
@@ -1473,28 +1496,177 @@ Read more in:
 
 ## 10-1 Polymorphic Functions
 
-## 10-2 Beyond Naturality
+Natural transformation are secretly at the heart of polymorphic functions. Infact, a natural transformation is a polymorphic function.
+
+A first example of a natural transformation is the Exercises 4.1.1 in [[RWH]](#RWH) on list operations, such as `safeHead` which is a function polymorphic in `a`,
+```
+safeHead :: [a] -> Maybe a
+safeHead [] = Nothing
+safeHead (x:xs) = Just x
+```
+which needs to satisfy the naturality condition
+```
+fmap f . safeHead = safeHead . fmap f
+```
+
+## 10-2 Beyond Naturalitys
+Since all standard algebraic data types are functors, any polymorphic function between such types is a natural transformation.
 
 ## 10-3 Functor Category
 
+As mentioned in the introduction to this chapter, just as functions form a set, functors form a category.
+
+The cool thing is, just as the exponential $z = \Hom\mathcal{C}(a,b)$ is a set of morphisms between two sets in the same category, do the functors from $\mathcal{C} \implies \mathcal{D}$ form a category. And we can compose those categories of functor! Let $\alpha: \mathcal{C} \implies \mathcal{D}$ and $\beta: \mathcal{D} \implies \mathcal{E}$, then we have $\alpha \circ \beta: \mathcal{C} \implies \mathcal{E}$, defined by $(\alpha_a \circ \beta_a) = \alpha_a \circ \beta_a$.
+
+
+So let's recap what a category is made up of:
+- objects
+- maps
+- for each map f, one object as domain of f and one object as codomain of f
+- for each object A an identity map, which has domain A and codomain A
+- composition of maps
+
+with the following rules:
+- identity laws
+- associativity laws
+
 ## 10-4 2-Categories
+This richer structure is an example of a 2-category, a generalization of a category where, besides objects and morphisms (which might be called 1-morphisms in this context), there are also 2-morphisms, which are morphisms between morphisms.
+
+> nLab:</br>
+> The notion of a 2-category generalizes that of category: a 2-category is a higher category, where on top of the objects and morphisms, there are also 2-morphisms.
+>
+> A 2-category consists of
+> - (small) categories as objects;
+> - functors as 1-morphisms between objects;
+> - natural transformations as 2-morphisms between morphisms.
+
+No reading among my references on this topic.
 
 ## 10-5 Conclusion
 
 ## 10-6 Challenges
 
+**1. Define a natural transformation from the `Maybe` functor to the `List` functor. Prove the naturality condition for it.**</br>
+
+So this is the opposite way around than was given as an example.
+```
+alpha :: Maybe a -> [a]
+alpha Nothing = []
+alpha (Just x) = [x]
+```
+To prove the naturality condition through equational reasoning we have two cases to consider. Firstly, `Nothing`:
+```
+fmap f . alpha Nothing = fmap f Nil
+                       = Nil
+                       = alpha Nothing
+                       = alpha . fmap f Nothing
+```
+Secondly, `Just x`:
+```
+fmap f . alpha (Just x) = fmap f (Cons a (List a))
+                      = f (Cons a (List a))
+                      = alpha (Just (f x))
+                      = alpha . fmap f (Just x)
+```
+Thus is both cases we have shown that `fmap f . alpha = alpha . fmap f`.
+
+
+**2. Define at least two different natural transformations between `Reader ()` and the list functor. How many different lists of `()` are there?**</br>
+Remember the `Reader` functor from [Sections 7.1](#7-1-functors-in-programming), which is implemented in Haskell as:
+```
+instance Functor ((->) r) where
+    fmap f g = f . g
+```
+However, in this chapter the `Reader` functor was implemented differently and we use the following definition
+```
+newtype Reader e a = Reader (e -> a)
+
+instance Functor (Reader e) where
+    fmap f (Reader g) = Reader (\x -> f (g x))
+```
+, which actually is pretty much the same as the original definition...
+
+Thus, we are aked to find two different netural transformations between `Reader () -> List a`, where the `List` container was defined as
+```
+data List a = Nil | Cons a (List a)
+```
+Thus, the natural transformation $\alpha$ is of the form
+```
+alpha :: Reader () a -> List a
+```
+As Bartosz mentioned on page 165 "There are only two of these, `dumb` and `obvious`",
+```
+dumb :: Reader () a -> List a
+dumb (Reader _) = Nil
+```
+Verifying naturality condition through equational reasoning again
+```
+fmap f . dumb (Reader g) = fmap f Nil
+                          = Nil
+                          = dumb (Reader (f . g))
+                          = dumb . fmap f (Reader g)
+```
+And for the other one
+```
+obvious :: Reader () a -> List a
+obvious (Reader g) = Cons g a (List g a)
+```
+Verifying naturality condition through equational reasoning again
+```
+                            -- definition of obvious
+fmap f . obvious (Reader g) = fmap f (Cons g a (List g a))
+                            -- definition of
+                            = Cons (f . g) a (List (f . g) a)
+                            -- definition of
+                            = obvious (Reader (f . g))
+                            -- definition of
+                            = obvious . fmap f (Reader g)
+```
+
+But besides these, we can also have other transformations such as
+
+```
+double :: Reader () a -> [a]
+double (Reader g) = [g (), g ()]
+```
+
+**3. Continue the previous exercise with Reader `Bool` and `Maybe`.**</br>
+
+**4. Show that horizontal composition of natural transformation satisfies the naturality condition (hint: use components). It’s a good exercise in diagram chasing.**</br>
+
+**5. Write a short essay about how you may enjoy writing down the evident diagrams needed to prove the interchange law.**</br>
+
+**6. Create a few test cases for the opposite naturality condition of transformations between different `Op` functors. Here’s one choice:**
+```
+op :: Op Bool Int
+op = Op (\x -> x > 0)
+```
+**and**
+```
+f :: String -> Int
+f x = read x
+```
+</br>
+
 ### References
 <a id="CM">[CM]</a>
-'Conceptual Mathematics' by F. William Lawvere, Stephen H. Schanuel
+'Conceptual Mathematics' by F. William Lawvere and Stephen H. Schanuel
 
 <a id="SSC">[SSC]</a>
 'An Invitation to Applied Category Theory: Seven Sketches in Compositionality' by Brendan Fong and David I. Spivak
-
-<a id="RWH">[RWH]</a>
-'Real World Haskell' by Bryan O'Sullivan, Don Stewart, John Goerzen
 
 <a id="PC">[PC]</a>
 'Programming with Categories' by Brendan Fong, Bartosz Milewski, David I. Spivak
 
 <a id="CH">[CH]</a>
 https://github.com/jwbuurlage/category-theory-programmers by Jan-Willem Buurlage
+
+<a id="RWH">[RWH]</a>
+'Real World Haskell' by Bryan O'Sullivan, Don Stewart, John Goerzen; 2008
+
+<a id="HPFP">[HPFP]</a>
+'Haskell Programming from First Principles' by Christopher Allen and Julie Moronuki; 2016
+
+<a id="WIWIK">[WIWIK]</a>
+'What I Wish I Knew When Learning Haskell' by Stephen Diehl; 2020
