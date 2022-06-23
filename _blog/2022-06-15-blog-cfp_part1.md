@@ -1679,4 +1679,3 @@ https://github.com/jwbuurlage/category-theory-programmers by Jan-Willem Buurlage
 
 <a id="WIWIK">[WIWIK]</a>
 'What I Wish I Knew When Learning Haskell' by Stephen Diehl; 2020
-
