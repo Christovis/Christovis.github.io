@@ -22,7 +22,7 @@ Um BigBang zugänglich zu machen, haben wir die weit verbreitete Programmierspra
 Der Anwendungsablauf von BigBang ist in drei Phasen unterteilt. Erstens, muss man angeben auf welche Mailinglisten zugegriffen werden soll. Bigbang enthält alle bestehenden Mailinglisten von [IETF](https://github.com/datactive/bigbang/blob/main/examples/url_collections/mm.ietf.org.txt), [W3C](https://github.com/datactive/bigbang/blob/main/examples/url_collections/W3C.txt), [3GPP](https://github.com/datactive/bigbang/blob/main/examples/url_collections/listserv.3GPP.txt), [ICANN](https://github.com/datactive/bigbang/blob/main/examples/url_collections/mm.icann.org.txt), und [IEEE](https://github.com/datactive/bigbang/blob/main/examples/url_collections/listserv.IEEE.txt). Such die Mailinglisten in du interessiert bis heraus und kopiere sie in eine Textdatei.
 
 Zweitens, müssen die Mailinglisten heruntergeladen werde. Dies kann man entweder manuell in einem Python Programm machen,
-```
+```python
 from bigbang.ingress import W3CMailList,
 
 mlist = W3CMailList.from_url(
@@ -31,7 +31,7 @@ mlist = W3CMailList.from_url(
 )
 ```
 oder durch die Befehlszeilenschnittstelle in dem du eine das folgende in ein Terminal/Konsole eintippst:
-```
+```bash
 $ python3 bin/collect_mail.py -f <Dateipfad zu der Textdatei>
 public-webauthn: 100%|#######################################################| 17956/17956 [7:58:47<00:00,  1.60s/it]
 www-voice:  34%|######################8                                        | 1408/4128 [38:24<1:16:19,  1.68s/it]
@@ -39,14 +39,14 @@ www-voice:  34%|######################8                                        |
 Da dies ein Zeitaufwendiges verfahren sein kann für große Mailinglisten (einige Mailinglisten umfassen bis zu 200k E-Mails, wodurch es bis zu 111 Stunden dauern kann, um sie herunterzuladen), arbeiten wir daran, um die Datensätze in einem leichter zugänglichen Format zu teilen, welches die DSGVO Grundsätze berücksichtigt.
 
 Nachdem alle Mailinglisten heruntergeladen wurden, können sie mit ein Par bereitgestellten Funktionen analysiert werden, z. B., das Zählen der gesendeten Nachrichten per Domänenteil
-```
+```python
 mlist.get_messagescount(
     header_fields=["comments-to"],
     per_address_field="domain",
 )
 ```
 oder das Filtern aller Nachrichten mit einer bestimmten Betreffzeile
-```
+```python
 mlist.crop_by_subject(match="EVS SWG Sessions")
 ```
 
