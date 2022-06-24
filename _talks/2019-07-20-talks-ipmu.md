@@ -2,7 +2,7 @@
 title: IPMU Friday Seminar - Measuring H_0 with strong lenses
 type: talks
 date: 2019-07-20
-imageurl: /assets/preview_strong_lensing.png
+imageurl: /assets/
 imagedsc: Gravitation strong lensing illustration
 author: Christoph Becker
 ---

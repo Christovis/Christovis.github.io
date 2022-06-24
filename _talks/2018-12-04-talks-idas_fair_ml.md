@@ -2,7 +2,7 @@
 title: IDAS Seminar - State of the Art in Fair ML
 type: talks
 date: 2018-12-04
-imageurl: /assets/
+imageurl: 
 imagedsc: Hello World
 author: Christoph Becker
 ---
