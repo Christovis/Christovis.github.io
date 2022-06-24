@@ -2,7 +2,7 @@
 title: BIGBANG - Für ein transparenteres und rechenschaftspflichtiges Internet
 type: blog
 date: 2022-02-21
-imageurl: /assets/Kumi+Yamashita_2.jpg
+imageurl: /assets/
 imagedsc: A zoom into the "CONSTELLATION - MANA no.2 2013" by Kumi Yamashita
 authors: Christoph Becker
 ---
@@ -81,4 +81,3 @@ ARTICLE 19, 2018
 <a id="3">[3]</a>
 [Human Rights Due Diligence and Internet Infrastructure](https://www.article19.org/wp-content/uploads/2021/06/A19-and-DIHR-pilot-project-outcome-report_FINAL.pdf)
 ARTICLE 19, 2021
-

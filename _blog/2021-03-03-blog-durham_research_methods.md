@@ -2,7 +2,7 @@
 title: Durham Research Methods Conversations - Interdisciplinary Interrogation of Sociotechnical Systems
 type: blog
 date: 2021-03-03
-imageurl: /assets/preview_jodi_collective.png
+imageurl: /assets/
 imagedsc: Adaptation of icti.me by the Jodi art collective
 authors: Christoph Becker
 ---
