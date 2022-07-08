@@ -2,7 +2,6 @@
 title: Virgo Meeting - Accelerating Cosmic Simulations through Machine Learning
 type: talks
 date: 2021-01-07
-imageurl: /assets/
 author: Christoph Becker
 ---
 

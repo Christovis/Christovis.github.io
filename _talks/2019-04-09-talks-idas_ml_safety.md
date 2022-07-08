@@ -2,8 +2,6 @@
 title: IDAS Seminar - Protecting Alice & Bob ML encryption
 type: talks
 date: 2019-04-09
-imageurl: /assets/
-imagedsc: Hello World
 author: Christoph Becker
 ---
 
