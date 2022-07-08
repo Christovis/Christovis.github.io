@@ -1,3 +1,3 @@
 
 # from my server space chrbecker.net on greenhost.nl server type into shell:
-wget -r -p -U Mozilla --wait=2 --limit-rate=35K https://christovis.github.io//
+wget -r -p -U Mozilla --wait=1 --limit-rate=35K https://christovis.github.io//
