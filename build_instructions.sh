@@ -13,3 +13,8 @@ sed "s/christovis.github.io/chrbecker.net/g" ./about -i
 sed "s/christovis.github.io/chrbecker.net/g" ./index.html -i
 sed "s/christovis.github.io/chrbecker.net/g" ./feed.xml -i
 sed "s/christovis.github.io/chrbecker.net/g" ./robots.txt -i
+
+
+sed "s/chrbecker.net/christovis.github.io/g" ./feed.xml -i
+sed "s/chrbecker.net/christovis.github.io/g" ./robots.txt -i
+sed "s/chrbecker.net/christovis.github.io/g" ./index.html -i
