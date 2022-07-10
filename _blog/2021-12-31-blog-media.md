@@ -24,7 +24,6 @@ I have started listing the books that I have read during the year, to give a par
     by John Kemp, sign up: http://eepurl.com/dxTcl1
     * daily digest of energy news, market analysis, and research notes
 
-*
 * Mailinglist: "Open Energy Modelling Initiative"
     maintained by a grass root initiative of modellers from various universities and research institutes across the world: https://openmod-initiative.org
     * TO exchange ideas and source code, lobby for policy support for open projects, and actively share data, code and knowhow
