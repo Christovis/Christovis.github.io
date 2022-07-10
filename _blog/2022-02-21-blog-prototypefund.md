@@ -3,7 +3,7 @@ title: BigBang - Für ein transparenteres und rechenschaftspflichtiges Internet
 type: blog
 date: 2022-02-21
 imageurl: /assets/
-imagedsc:   
+imagedsc: .
 authors: Christoph Becker
 ---
 

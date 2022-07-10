@@ -3,7 +3,7 @@ title: The Media I Consumed in 2022
 type: blog
 date: 2022-07-08
 imageurl: /assets/
-imagedsc:   
+imagedsc: .
 authors: Christoph Becker
 ---
 
@@ -13,11 +13,11 @@ I have started listing the media that I have consumed during the year, to give a
 
 * Book: "Carbon Technocracy: Energy Regimes in Modern East Asia"
     by Victor Seow; ISBN-13: 9780226721996
-    * Coverage: [++++++\_\_\_\_\_]
+    * Coverage: [+++++\_\_\_\_\_]
 
 * Book: "Climate Leviathan: A Political Theory of Our Planetary Future"<br/>
     by Geoff Mann and Joel Wainwright; ISBN-13: 9781786634450
-    * Coverage: [++++++\_\_\_\_\_]
+    * Coverage: [+++++\_\_\_\_\_]
 
 * Book: "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
     by Jesse Goldstein; ISBN-13: 9780262037822
@@ -25,11 +25,11 @@ I have started listing the media that I have consumed during the year, to give a
 
 * Book: "Savage Ecology: War and Geopolitics at the End of the World"<br/>
     by Jairus Victor Grove; ISBN-13: 9781478004219
-    * Coverage: [+\_\_\_\_\_\_\_\_]
+    * Coverage: [++\_\_\_\_\_\_\_\_]
 
 * Book: "Environmentality: Technologies of Government and the Making of Subjects"<br/>
     by Arun Agrawal; ISBN-13: 9780822386421
-    * Coverage: [+\_\_\_\_\_\_\_\_]
+    * Coverage: [++\_\_\_\_\_\_\_\_]
 
 ### **Internet Governance**
 

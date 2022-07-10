@@ -3,7 +3,7 @@ title: Durham Research Methods Conversations - Machine Learning
 type: blog
 date: 2020-11-25
 imageurl: /assets/
-imagedsc:    
+imagedsc: .
 authors: Christoph Becker
 ---
 

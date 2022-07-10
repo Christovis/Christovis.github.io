@@ -3,7 +3,7 @@ title: The State of Data-Driven Reasoning - Part I
 type: blog
 date: 2020-09-20
 imageurl: /assets/
-imagedsc:    
+imagedsc: .
 authors: Christoph Becker
 ---
 

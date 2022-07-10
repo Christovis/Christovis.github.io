@@ -3,7 +3,7 @@ title: Category Theory for Programmers - Part I
 type: blog
 date: 2022-06-15
 imageurl: /assets/
-imagedsc:   
+imagedsc:  .
 authors: Christoph Becker
 ---
 

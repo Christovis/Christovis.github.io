@@ -3,7 +3,7 @@ title: Durham Research Methods Conversations - Decolonizing Artificial Intellige
 type: blog
 date: 2021-01-20
 imageurl: /assets/
-imagedsc:    
+imagedsc: .
 authors: Christoph Becker
 ---
 

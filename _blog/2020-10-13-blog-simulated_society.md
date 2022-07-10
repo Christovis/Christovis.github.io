@@ -3,7 +3,7 @@ title: Simulated Societies
 type: blog
 date: 2020-10-13
 imageurl: /assets/
-imagedsc:     
+imagedsc: .
 authors: Christoph Becker
 ---
 

@@ -3,7 +3,7 @@ title: The Media I Consumed in 2021
 type: blog
 date: 2021-12-31
 imageurl: /assets/
-imagedsc:   
+imagedsc: .
 authors: Christoph Becker
 ---
 
