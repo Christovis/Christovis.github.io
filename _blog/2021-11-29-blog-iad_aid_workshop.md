@@ -3,7 +3,7 @@ title: Climate Discourse in Internet Standards Organizations
 type: blog
 date: 2021-12-08
 imageurl: /assets/
-imagedsc: Part of the cover of the 2nd issue of the Branch magazine.
+imagedsc:   
 authors: Christoph Becker
 ---
 

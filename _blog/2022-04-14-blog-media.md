@@ -2,6 +2,8 @@
 title: The Media I Consumed in 2022
 type: blog
 date: 2022-07-08
+imageurl: /assets/
+imagedsc:   
 authors: Christoph Becker
 ---
 
