@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-My research aims to uncover and design mathematical modelling methodologies for policy decision making. In this pursued, I aim carefully trying to find it's places of applicability without pushing the ideology of an expansive, invasive, and messianic 'computational universalism' [[1]](#1)). As every decision is a medium of power and of stratification, developing a framework that truly respects epistemic pluralism has to start at the root.
+My research aims to uncover and design mathematical modelling methodologies for policy decisions with respect to the energy transition in the Netherlands. In this pursued, I aim carefully trying to find it's places of applicability without pushing the ideology of an expansive, invasive, and messianic 'computational universalism' [[1]](#1)). As every decision is a medium of power and of stratification, developing a framework that truly respects epistemic pluralism has to start at the root.
 
-The root, in my case, are cyberinfrastructures which set "the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes [[2]](#2)). This is emphasized by the [EU Crossover Project](https://cordis.europa.eu/project/id/288828) on 'ICT solutions for governance and policy modelling' which was part of the Seventh Framework Programme. Here, [my work](https://christovis.github.io//research/2021-01-18-internet-governance) on internet governance makes the production of digital infrastructures more transparent and accountable. 
+As the root of my work, I considered cyberinfrastructures which set "the invisible rules that determine the spaces of our everyday life", as the social geographer Keller Easterling writes [[2]](#2)). This is also emphasised by the [EU Crossover Project](https://cordis.europa.eu/project/id/288828) on 'ICT solutions for governance and policy modelling' which was part of the Seventh Framework Programme. You can read more about my contributions to internet governance [here](https://christovis.github.io//research/2021-01-18-internet-governance).
 
-Embedded within these cyberinfrastructures are digital platforms on which my everyday research practices depend in many ways (such as finding and gathering data to evaluate and validate mathematical models, identifying relevant literature, and publishing results). Platforms can be identified as a key driver of a significant shift in our epistemic infrastructure that is currently underway (Celia Lury 2021, [[3]](#3)). Here, [my work](https://christovis.github.io//research/2020-11-01-dppp) on digital platforms for political participation investigates the reshaping of urban issues.
+Embedded within these cyberinfrastructures are digital platforms on which my everyday research practices depend in many ways (such as finding and gathering data to evaluate and validate mathematical models, identifying relevant literature, publishing results, etc). Platforms can be identified as a key driver of a significant shift in our epistemic infrastructure that is currently underway (Celia Lury 2021, [[3]](#3)). Here, [my past work](https://christovis.github.io//research/2020-11-01-dppp) on digital platforms for political participation investigates the reshaping of urban issues.
 
-To account for tacit knowledges beyond data-driven logics I am working on new methodologies:
+My current work focuses on accounting for tacit knowledges beyond data-driven logics I am working on new methodologies:
 - Starting with the creation of conceptual models in the form of causal loop diagrams (CLD) that store qualitative expert knowledge which has been gathered through group model building (GMB).
 - Turning the conceptual model, represented through the CLD, into a computational model, represented though a system dynamics models (SDM).
 - The created SDM can then be further refined by replacing links with more complex computational methods, such as agent-based models (ABM).
@@ -23,25 +23,39 @@ As the WHO declared the COVID-19 outbreak a pandemic, I joined the "Rapid Assist
 
 In that pursuit I organized and moderated a series of conversation at the <a href="https://www.dur.ac.uk/researchmethodscentre/">Durham Research Methods Centre</a> on machine learning and how to foster interdisciplinary research between the humanities, social- and natural-science (blog posts on these conversation can be found in my <a href="https://christovis.github.io//essay">essay</a> section). Furthermore am I working with the <a href="https://in-sight.it/">In-SIGHT</a> project (formerly the <a href="https://data-activism.net/">Datactive</a> project) to investigate how norms, such as human rights, get inscribed, resisted, and subverted in the Internet infrastructure through its transnational governance.
 
-The programming languages I am most familiar with are listed below:
+
+The programming languages listed below are ordered according to the level of my experience in them:
 
 1. Python:
     - with speed ups via Numba or C and C++ through ctypes and cython
+    - parallelisation through threading and multiprocessing
     - machine learning libraries such as Sklearn, PyTorch and TensorFlow
+    - unit testing
+    - ...
 2. Julia
 3. FORTRAN
 4. Bash
 5. Matlab
-6. C/C++
+6. Haskell
+7. C/C++
+8. Scala
 
-I regularly use the following technologies:
+For HPC queuing I am most familiar with SLURM and LSF batch systems.
 
-1. Latex
-2. Git, Travis
-3. slurm & lsf batch system
-4. Jupyter notebooks, Google Colab
-6. PyPI, Conda, PyTest
-7. Huggingface
+For database management systems I am experienced in MySQL and GraphQL.
+
+For software development I rely on (the probably incomplete list of tools):
+
+- distributed version control through git
+- test coverage through, e.g., Travis CL and Codecov
+- unifying code style through, e.g., flak8
+
+For documentation of code, reading lists, notes, etc.:
+
+- Zotero: for notes, publications, books, etc
+- Sphinx: for Python Software
+- Pandoc: to be able to convert between different document file types
+- Latex, Word, Google doc, Markdown: writing in natural language
 
 
 ### References
