@@ -3,7 +3,7 @@ title: Durham Research Methods Conversations - Decolonizing Artificial Intellige
 type: blog
 date: 2021-01-20
 imageurl: /assets/
-imagedsc: From the cover of "What Do Science, Technology, and Innovation Mean from Africa?"
+imagedsc:    
 authors: Christoph Becker
 ---
 

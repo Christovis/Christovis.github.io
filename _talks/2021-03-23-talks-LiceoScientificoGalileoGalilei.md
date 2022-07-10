@@ -2,6 +2,8 @@
 title: Lecture at the Liceo Scientifico Galileo Galilei in Trento
 type: talks
 date: 2021-03-23
+imageurl: /assets/
+imagedsc:    
 author: Christoph Becker
 ---
 

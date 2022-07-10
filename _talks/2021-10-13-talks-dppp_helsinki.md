@@ -2,6 +2,8 @@
 title: Kaupunkiakatemia, Helsinki - Towards Digital Democracy
 type: talks
 date: 2021-10-13
+imageurl: /assets/
+imagedsc:    
 author: Christoph Becker & Yu-Shan Tseng
 ---
 

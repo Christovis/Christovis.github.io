@@ -3,7 +3,7 @@ title: Durham Research Methods Conversations - Machine Learning
 type: blog
 date: 2020-11-25
 imageurl: /assets/
-imagedsc: A zoom into "Anatomy of an AI system" by Vladan Joler and Kate Crawford
+imagedsc:    
 authors: Christoph Becker
 ---
 

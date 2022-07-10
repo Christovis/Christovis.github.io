@@ -3,7 +3,7 @@ title: Durham Research Methods Conversations - Interdisciplinary Interrogation o
 type: blog
 date: 2021-03-03
 imageurl: /assets/
-imagedsc: Adaptation of icti.me by the Jodi art collective
+imagedsc:   
 authors: Christoph Becker
 ---
 

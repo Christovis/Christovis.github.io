@@ -2,6 +2,8 @@
 title: Re:public & Hiroshima prefecture - Towards Digital Democracy
 type: talks
 date: 2021-10-22
+imageurl: /assets/
+imagedsc:    
 author: Christoph Becker & Yu-Shan Tseng
 ---
 
