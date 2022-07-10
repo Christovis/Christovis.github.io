@@ -7,6 +7,8 @@ imagedsc: .
 authors: Christoph Becker
 ---
 
+> Blog post is also hosted by Prototype Fund [here](https://demoweek.prototypefund.de/projects/03-bigbang.html).
+
 Jedes Mal, wenn man das Internet benutzt, sei es, um mit Verwandten in Kontakt zu bleiben oder Nachrichten aus aller Welt zu lesen, verlässt du dich auf die Arbeit von Normgremien, um ein schnelles, sicheres und genaues Übermitteln von Webseiten, Videos und Telefonsignalen zu garantieren. Es gibt eine Vielzahl von unterschiedlichen regionalen und globalen Normgremien, die Standards und Protokolle für das Internet definieren. Zwei der wichtigsten Normgremien sind die '[Internet Engineering Task Force](https://www.ietf.org/)' (IETF) und das '[World Wide Web Consortium](https://www.w3.org/)' (W3C) die zusammen Standards so wie HTML, JPEG, SSH, oder PGP gesetzt haben.
 
 Genauso wie man nicht über die Kabel, Datenzentren oder Antennen nachdenken muss, wenn man im Internet surft, entfaltet sich der enorme Einfluss von Normgremien auf z. B., die Fähigkeit privater Nutzer ihre eigenen Datenströme zu kontrollieren, oftmals unbemerkt im Hintergrund. Auch wenn einige Normgremien offen für die Teilnahme eines jeden sind, werden sie oft von internationalen Konzernen (so wie Ericsson, Qualcomm, Siemens, Nokia, Huawei) dominiert, die für das Internet verantwortlich sind. Das kontrollieren, ob neue Standards gewisse Kriterien erfüllen (auf z. B., die Gewährleistung der Privatsphäre von Nutzern) oder richtig implementiert werden, wird den von privaten Unternehmen dominierten Normgremien selbst überlassen.
