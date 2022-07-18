@@ -43,6 +43,10 @@ by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-s
     by Alison B Powell ([link](https://yalebooks.yale.edu/book/9780300223804/undoing-optimization/))
     * Coverage: [++++\_\_\_\_\_\_]
 
+* Mailinglist: "Dave Beer - The Fragment"
+    by Prof. David Beer: https://davidbeer.substack.com
+    A newsletter about technology, media, culture and ideas.
+
 ### **Internet Governance**
 
 * Book: "The Stack: On Software and Sovereignty"<br/>

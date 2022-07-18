@@ -31,6 +31,11 @@ I have started listing the media that I have consumed during the year, to give a
     by Arun Agrawal; ISBN-13: 9780822386421
     * Coverage: [++\_\_\_\_\_\_\_\_]
 
+* Mailinglist: "G-STIC NEWSLETTER"
+    of the Global Sustainable Technology & Innovation Community (G-STIC): https://www.gstic.org/newsletter/
+    * G-STIC aims to accelerate market-ready integrated technological solutions for the SDGs
+
+
 ### **Internet Governance**
 
 * Book: "Cyberspace: First Steps"<br/>
