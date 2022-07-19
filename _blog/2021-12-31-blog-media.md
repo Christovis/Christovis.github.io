@@ -32,7 +32,7 @@ I have started listing the books that I have read during the year, to give a par
 ### **Digital Platforms for Political Participations**
 
 * Book: "Problem Spaces: How and Why Methodology Matters"<br/>
-by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-spaces-how-and-why-methodology-matters--9781509507931))
+    by Celia Lury ([link](https://www.politybooks.com/bookdetail?book_slug=problem-spaces-how-and-why-methodology-matters--9781509507931))
     * Coverage: [++++++++++]
 
 * Book: "Engines of Order: A Mechanology of Algorithmic Techniques"<br/>

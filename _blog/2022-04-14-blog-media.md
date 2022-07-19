@@ -19,10 +19,6 @@ I have started listing the media that I have consumed during the year, to give a
     by Geoff Mann and Joel Wainwright; ISBN-13: 9781786634450
     * Coverage: [+++++\_\_\_\_\_]
 
-* Book: "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
-    by Jesse Goldstein; ISBN-13: 9780262037822
-    * Coverage: [+++\_\_\_\_\_\_\_]
-
 * Book: "Savage Ecology: War and Geopolitics at the End of the World"<br/>
     by Jairus Victor Grove; ISBN-13: 9781478004219
     * Coverage: [++\_\_\_\_\_\_\_\_]
@@ -30,6 +26,10 @@ I have started listing the media that I have consumed during the year, to give a
 * Book: "Environmentality: Technologies of Government and the Making of Subjects"<br/>
     by Arun Agrawal; ISBN-13: 9780822386421
     * Coverage: [++\_\_\_\_\_\_\_\_]
+
+* Book: "Planetary Improvement: Cleantech Entrepreneurship and the Contradictions of Green Capitalism"<br/>
+    by Jesse Goldstein; ISBN-13: 9780262037822
+    * Coverage: [+++\_\_\_\_\_\_\_]
 
 * Mailinglist: "G-STIC NEWSLETTER"
     of the Global Sustainable Technology & Innovation Community (G-STIC): https://www.gstic.org/newsletter/
