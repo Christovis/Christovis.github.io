@@ -9,9 +9,13 @@ authors: Christoph Becker
 
 I have started listing the media that I have consumed during the year, to give a partial account of the what influences and guides my own thinking. I’ve grouped the books according to the projects I was thinking about when picking them up. However, in retrospect these categories are in many ways overlapping and arbitrary).
 
-### **Energy Transition**
+### **Sustainable Development / Energy Transition**
 
-* Book: "Carbon Technocracy: Energy Regimes in Modern East Asia"
+* Book: "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist"<br/>
+    by Kate Raworth; ISBN-13: 9781847941398
+    * Coverage: [+++++\_\_\_\_\_]
+
+* Book: "Carbon Technocracy: Energy Regimes in Modern East Asia"<br/>
     by Victor Seow; ISBN-13: 9780226721996
     * Coverage: [+++++\_\_\_\_\_]
 
@@ -31,12 +35,20 @@ I have started listing the media that I have consumed during the year, to give a
     by Jesse Goldstein; ISBN-13: 9780262037822
     * Coverage: [+++\_\_\_\_\_\_\_]
 
-* Mailinglist: "G-STIC NEWSLETTER"
+* Book: "The Tragedy of the Worker: Towards the Proletarocene"<br/>
+    by The Salvage Collective; ISBN-13: 9781839762949
+    * Coverage: [++++++++++]
+
+* Mailinglist: "G-STIC NEWSLETTER"<br/>
     of the Global Sustainable Technology & Innovation Community (G-STIC): https://www.gstic.org/newsletter/
     * G-STIC aims to accelerate market-ready integrated technological solutions for the SDGs
 
 
-### **Internet Governance**
+### **Digital Transition / Internet Governance**
+
+* Book: "Internet for the People: The Fight for Our Digital Future"<br/>
+    by Ben Tarnoff; ISBN-13: 9781839762024
+    * Coverage: [++\_\_\_\_\_\_\_\_]
 
 * Book: "Cyberspace: First Steps"<br/>
     edited by Michael Benedikt; ISBN-13: 9780262521772
