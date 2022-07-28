@@ -25,7 +25,7 @@ Second, the report positions these new technologies as "future-proof" as "fixed 
 >   1. Supporting and promoting smart and sustainable networks and devices.
 >   2. Encouraging communication network operators to periodically report on their environmental impacts and initiatives taken to improve them and to report on the positive environmental effects of connectivity.
 
-The problems with such narrative and recommendations are numerous. First, although the [OECD promotes circular economy models](https://www.oecd.org/env/waste/recircle.htm) on regional up to international scale, there is no word in the report how the exchange of the existing infrastructure can be done circular, e.g., how the existing physical infrastructure (coax cables, gateways, firewalls, load balancing devices, etc.) will be recycled.
+The weaknesses of the described "future-proof broadband " are numerous. First, although the [OECD promotes circular economy models](https://www.oecd.org/env/waste/recircle.htm) on regional up to international scale, there is no word in the report how the exchange of the existing infrastructure can be done circular: how will the existing physical infrastructure (coax cables, gateways, firewalls, load balancing devices, etc.) be recycled? where are the materials for the new cables and devices coming from?
 
 <!-- Second, the continued focus of the OECD on economic growth, no matter if linear or circular, is growing more alien from research efforts at academic institutes (such as the [Environmental Change Institute](https://www.eci.ox.ac.uk), NPOs ([Green Web Foundation](https://www.thegreenwebfoundation.org)) and countless civic organisations. -->
 
