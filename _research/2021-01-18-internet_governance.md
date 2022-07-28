@@ -18,7 +18,7 @@ Feel free to contact me if you are interested in this projects and are eager to 
 
 ### Publications
 "The Standardisation of Lawful Interception Technologies in the 3GPP: Interrogating 5G and Surveillance Amid US-China Competition"<br/>
-Christoph Becker, Niels ten Oever, Riccardo Nanni
+Christoph Becker, Niels ten Oever, Riccardo Nanni<br/>
 DOI: [10.2139/ssrn.4167105](http://dx.doi.org/10.2139/ssrn.4167105)
 
 ### Funding
