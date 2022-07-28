@@ -15,6 +15,10 @@ I have started listing the media that I have consumed during the year, to give a
     by Kate Raworth; ISBN-13: 9781847941398
     * Coverage: [+++++\_\_\_\_\_]
 
+* Book: "The Digital Transformation of Labor: Automation, the Gig Economy and Welfare"<br/>
+    Edited by Anthony Larsson and Robin Teigland; ISBN-13: 9780429317866
+    * Coverage: read Chapter 16 "Digitalization, circular economy and the future of labor"
+
 * Book: "Carbon Technocracy: Energy Regimes in Modern East Asia"<br/>
     by Victor Seow; ISBN-13: 9780226721996
     * Coverage: [+++++\_\_\_\_\_]
@@ -48,7 +52,7 @@ I have started listing the media that I have consumed during the year, to give a
 
 * Book: "Internet for the People: The Fight for Our Digital Future"<br/>
     by Ben Tarnoff; ISBN-13: 9781839762024
-    * Coverage: [++\_\_\_\_\_\_\_\_]
+    * Coverage: [++++++++++]
 
 * Book: "Cyberspace: First Steps"<br/>
     edited by Michael Benedikt; ISBN-13: 9780262521772
