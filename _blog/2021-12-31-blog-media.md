@@ -58,6 +58,10 @@ I have started listing the books that I have read during the year, to give a par
     * Coverage: [++++\_\_\_\_\_\_]
 
 
+* Book: "Law for Computer Scientists and Other Folk"<br/>
+    by Mireille Hildebrandt; ISBN-13: 9780198860884
+    * Coverage: [++\_\_\_\_\_\_\_\_]
+
 ### **Miscellaneous**
 
 * Book: "Database of Dreams: The Lost Quest to Catalog Humanity"<br/>

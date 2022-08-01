@@ -11,8 +11,15 @@ I have started listing the media that I have consumed during the year, to give a
 
 ### **Sustainable Development / Energy Transition**
 
+* Magazine: "Sustain: Sustainable AI in Practice"
+    by AlgorithmWatch; ([link](https://algorithmwatch.org/en/sustain-magazine-2022/))
+
 * Book: "Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist"<br/>
     by Kate Raworth; ISBN-13: 9781847941398
+    * Coverage: [+++++\_\_\_\_\_]
+
+* Book: "AI for the Sustainable Development Goals"<br/>
+    by Henrik Skaug Sætra; ISBN-13: 9781032044064
     * Coverage: [+++++\_\_\_\_\_]
 
 * Book: "The Digital Transformation of Labor: Automation, the Gig Economy and Welfare"<br/>
