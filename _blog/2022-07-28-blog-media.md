@@ -22,6 +22,10 @@ I have started listing the media that I have consumed during the year, to give a
     by Henrik Skaug Sætra; ISBN-13: 9781032044064
     * Coverage: [+++++\_\_\_\_\_]
 
+* Book: "ICT Innovations for Sustainability"<br/>
+    Edited by Bernard Aebischer and Lorenz M. Hilty; ISBN-13: 9783319092287
+    * Coverage: [+++++\_\_\_\_\_]
+
 * Book: "The Digital Transformation of Labor: Automation, the Gig Economy and Welfare"<br/>
     Edited by Anthony Larsson and Robin Teigland; ISBN-13: 9780429317866
     * Coverage: read Chapter 16 "Digitalization, circular economy and the future of labor"
@@ -110,18 +114,22 @@ I have started listing the media that I have consumed during the year, to give a
 
 ### **Miscellaneous**
 
+* Book: "The Unbearable Lightness of Being"<br/>
+    by Milan Kundera; ISBN-13: 9781473202214
+    * Coverage: [++++++++++]
+
 * Book: "Monday Begins on Saturday"<br/>
     by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9781473202214
-    * Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [++++++++++]
 
 * Book: "Roadside Picnic"<br/>
     by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9780575093133
-    * Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [++++++++++]
 
 * Book: "One Billion Years to the End of the World"<br/>
     by Arkady Strugatsky and Boris Strugatsky; ISBN-13: 9780241472477
-    * Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [++++++++++]
 
 * Book: "Lingua Tertii Imperii: Notizbuch eines Philologen"<br/>
     by Victor Klemperer; ISBN-13: 9783150206249
-    * Coverage: [+++\_\_\_\_\_\_\_]
+    * Coverage: [++++++++++]
