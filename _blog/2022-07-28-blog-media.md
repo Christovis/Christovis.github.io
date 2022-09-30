@@ -114,6 +114,14 @@ I have started listing the media that I have consumed during the year, to give a
 
 ### **Miscellaneous**
 
+* Book: "Posthuman Feminism"<br/>
+    by Rosi Braidotti; ISBN-13: 9781509518081
+    * Coverage: [++++++++++]
+
+* Book: "Pedagogy of the Oppressed"<br/>
+    by Paulo Freire; ISBN-13: 9780241301111
+    * Coverage: [++++++++++]
+
 * Book: "The Unbearable Lightness of Being"<br/>
     by Milan Kundera; ISBN-13: 9781473202214
     * Coverage: [++++++++++]
