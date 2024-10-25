@@ -1,5 +1,5 @@
 ---
-title: My Media Engagement in 2023
+title: My Media Engagement in 2024
 type: blog
 date: 2023-12-31
 imageurl: /assets/
@@ -9,14 +9,8 @@ authors: Christoph Becker
 
 I have started listing the books that I have engaged with during the year, to give a partial account of the what influences and guides my own thinking. I’ve grouped the books according to the projects I was thinking about when picking them up. However, in retrospect these categories are in many ways overlapping and arbitrary).
 
-### **Discard Studies**
+* Podcast: "Plastisphere"<br/>
+    by Anja Krieger ([link](https://anjakrieger.com/plastisphere/))
 
-### **Development Studies**
 
-* Book: "The Uncounted"<br/>
-    by Alex Cobham ([link](https://www.wiley.com/en-gb/The+Uncounted-p-9781509536016))
-    * Coverage: [++++++++++]
-
-* Book: "The Uncounted: Politics of Data in Global Health"<br/>
-    by Sara L. M. Davis ([link](https://doi.org/10.1017/9781108649544))
-    * Coverage: [++++++++++]
+https://www.zotero.org/christophbecker/collections/5VGKI7WA
