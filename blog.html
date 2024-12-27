@@ -3,38 +3,35 @@ layout: default
 title: Blog
 ---
 <section>
-<p>
-Most professional websites don’t show what anthropologists like to call
-“messy humans”. This page leans into the messiness and the work in progress
-of my research, thinking, and writing that is not shown on my github or twitter
-account.
-</p>
+	<p>
+		Most professional websites don't show what anthropologists like to call
+		“messy humans”. This page leans into the messiness and the work in progress
+		of my research, thinking, and writing that is not shown on my github or twitter
+		account.
+	</p>
 
-<p>
-I am using this page to keep a running list of what I am reading,
-listening to, and thinking about. The plan is to update it haphazardly,
-share first drafts and half-baked thoughts.
-</p>
+	<p>
+		I am using this page to keep a running list of what I am reading,
+		listening, and thinking. I won't list all papers, reports, or articles I have,
+		for this you can have a look at my Zotero library:
+		<br>
+		<a href="https://www.zotero.org/christophbecker/library">zotero.org/christophbecker/library</a>
+		<br>
+		The plan is to update new blogs/snippets haphazardly, share first drafts and half-baked thoughts.
+	</p>
 
-<p>
-The foci will lie on energy systems and computer science but might occasionally
-expand beyond to include other aspects including themes around science and
-technology studies.
-</p>
+	<p>
+		The foci will lie on waste management and energy systems but might occasionally
+		expand beyond to include other aspects including themes around science and
+		technology studies.
+	</p>
 
-<p>
-Like a good geriatric millennial, I do not own a tv or a subscription to any
-video streaming services, but I am a fan of podcasts and mailinglists and will
-include my favorites here (see below).
-</p>
-
-<p>
-I am unsure who might be interested in this information, but thank you for making
-it all the way to this page and feel free to drop me a line if you have any
-recommendations, thoughts, comments, or concerns about being human or this messy
-page.
-</p>
-<div class="divider"></div>
+	<p>
+		Like a good geriatric millennial, I do not own a tv or a subscription to any
+		video streaming services, but I am a fan of podcasts and mailinglists and will
+		include my favorites here (see below).
+	</p>
+	<div class="divider"></div>
 </section>
 
 <section>
@@ -47,35 +44,35 @@ page.
 
 	{% assign sorted = (site.blog | sort: date) | reverse %}
 	{% for post in sorted %}
-		{% unless post.next %}
-			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-		{% else %}
-			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-			{% if year != nyear %}
-				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-			{% endif %}
-		{% endunless %}
+	{% unless post.next %}
+	<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+	{% else %}
+	{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+	{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+	{% if year != nyear %}
+	<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+	{% endif %}
+	{% endunless %}
 
-		<ul>
-			<li>
-				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
-				</div>
-				<div class="title">
-					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+	<ul>
+		<li>
+			<div class="post-date code">
+				<span>{{ post.date | date: "%b %d" }}</span>
+			</div>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
 
-                        <div class="container">
-                            <img src="{{ post.imageurl }}" alt="" style="width: 100%;">
-                            <div class="overlay">
-                                <div class="imagetext">Image description: {{ post.imagedsc }}</div>
-                            </div>
-                        </div>
-						{{ post.title }}
-					</a>
-				</div>
-			</li>
-		</ul>
+					<div class="container">
+						<img src="{{ post.imageurl }}" alt="" style="width: 100%;">
+						<div class="overlay">
+							<div class="imagetext">Image description: {{ post.imagedsc }}</div>
+						</div>
+					</div>
+					{{ post.title }}
+				</a>
+			</div>
+		</li>
+	</ul>
 
 	{% endfor %}
 
