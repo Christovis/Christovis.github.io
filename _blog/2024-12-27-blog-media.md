@@ -1,7 +1,7 @@
 ---
 title: Media List as of 2024
 type: blog
-date: 2024-12-31
+date: 2024-12-27
 imageurl: /assets/
 imagedsc: .
 authors: Christoph Becker
