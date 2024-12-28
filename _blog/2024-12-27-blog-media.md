@@ -41,3 +41,6 @@ authors: Christoph Becker
 
 * Blog: Green Web Foundation
     by Green Web Foundation ([link](https://www.thegreenwebfoundation.org/news/))
+
+* Blog: Sustainability by numbers
+    by Hannah Ritchie ([link](https://www.sustainabilitybynumbers.com/))
