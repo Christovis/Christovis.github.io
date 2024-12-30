@@ -1,5 +1,5 @@
 ---
-title: Internet Governance Project 7th Annual Conference
+title: ISWA World Congress '24
 type: talks
 date: 2024-09-15
 imageurl: /assets/
