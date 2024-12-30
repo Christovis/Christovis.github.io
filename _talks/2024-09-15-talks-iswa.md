@@ -1,7 +1,7 @@
 ---
 title: Internet Governance Project 7th Annual Conference
 type: talks
-date: 2022-09-15
+date: 2024-09-15
 imageurl: /assets/
 imagedsc:    
 author: Christoph Becker
