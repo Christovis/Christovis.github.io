@@ -7,7 +7,7 @@ imagedsc:
 author: Christoph Becker
 ---
 
-> Slides are [here](/assets/talks_ipmu_time_delays.html).
+> Slides are [here](/assets/talks/talks_ipmu_time_delays.html).
 
 ### Abstract
 
