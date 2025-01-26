@@ -3,15 +3,27 @@ layout: default
 ---
 
 <section>
-<p>
-Dr. Christoph Becker's research focuses on how material flows through the social fabrics, from rare earths mine in Bayan Obo all the way to plastics pollution of oceans. His work is driven by questions such as: Where and how are contemporary discards made? Where do they travel and where do their effects accumulate? Who gets what discards, where, how, and under what conditions? How can maintenance, repair, and recycling offer both literal and figurative lessons for figuring out how to live well together in permanently polluted and always breaking worlds. Christoph has contributed to Belgium and European research projects and given policy advice on waste diversion from incineration, marine litter, and the potentials of reuse and recycling on a sustainable energy infrastructure. He is member of the <a href="https://www.iswa.org/recycling-and-waste-minimisation/?v=d3dcf429c679">Working Group on Recycling and Waste Minimisation (WGRWM)</a> of the <a href="https://www.iswa.org/">International Solid Waste Association (ISWA)</a>.
-</p>
+	<p>
+		Material Resource Management and the Circular Economy
+		Dr. Christoph Becker's research focuses on how material flows through the social fabrics, from rare earths mine
+		in Bayan Obo all the way to plastics pollution of oceans. His work is driven by questions such as: Where and how
+		are contemporary discards made? Where do they travel and where do their effects accumulate? Who gets what
+		discards, where, how, and under what conditions? How can maintenance, repair, and recycling offer both literal
+		and figurative lessons for figuring out how to live well together in permanently polluted and always breaking
+		worlds. Christoph has contributed to Belgium and European research projects and given policy advice on waste
+		diversion from incineration, marine litter, and the potentials of reuse and recycling on a sustainable energy
+		infrastructure. He is member of the <a
+			href="https://www.iswa.org/recycling-and-waste-minimisation/?v=d3dcf429c679">Working Group on Recycling and
+			Waste Minimisation (WGRWM)</a> of the <a href="https://www.iswa.org/">International Solid Waste Association
+			(ISWA)</a>.
+	</p>
 
-*BSc/MSc Thesis*
-<br>
-I have multiple <a href="https://christovis.github.io//research">projects</a> for students in the fields of Bio-Engineering, Environmental Studies, and Computer Sciences. Just drop me a message if you are interested.
-</p>
-<div class="divider"></div>
+	*BSc/MSc Thesis*
+	<br>
+	I have multiple <a href="https://christovis.github.io//research">projects</a> for students in the fields of
+	Bio-Engineering, Environmental Studies, and Computer Sciences. Just drop me a message if you are interested.
+	</p>
+	<div class="divider"></div>
 
 </section>
 
@@ -26,29 +38,29 @@ I have multiple <a href="https://christovis.github.io//research">projects</a> fo
 	{% assign sorted = ((site.documents | sort: date) | reverse) %}
 	{% assign recent_activities = "" | split: "/" %}
 	{% for post in sorted limit:5 %}
-		{% assign recent_activities = recent_activities | push: post %}
+	{% assign recent_activities = recent_activities | push: post %}
 	{% endfor %}
 	{% assign recent_activities = (recent_activities | group_by: "type") %}
 	{% for group in recent_activities %}
-		{% assign anitem = group.items | first %}
-		<h3 class="code" style="text-transform: capitalize;">{{ anitem.type }}</h3>
-		{% for item in group.items %}
-			<ul>
-				<li>
-					<div class="title">
-						<a href="{{ item.url | prepend: site.baseurl | prepend: site.url }}">
-                            <div class="container">
-                                <img src="{{ item.imageurl }}" title="{{ item.imagedsc }}" alt="" style="width: 100%;">
-                                <div class="overlay">
-                                    <div class="imagetext">Image description: {{ item.imagedsc }}</div>
-                                </div>
-                            </div>
-                            {{ item.title }}
-						</a>
+	{% assign anitem = group.items | first %}
+	<h3 class="code" style="text-transform: capitalize;">{{ anitem.type }}</h3>
+	{% for item in group.items %}
+	<ul>
+		<li>
+			<div class="title">
+				<a href="{{ item.url | prepend: site.baseurl | prepend: site.url }}">
+					<div class="container">
+						<img src="{{ item.imageurl }}" title="{{ item.imagedsc }}" alt="" style="width: 100%;">
+						<div class="overlay">
+							<div class="imagetext">Image description: {{ item.imagedsc }}</div>
+						</div>
 					</div>
-				</li>
-			</ul>
-    {% endfor %}
+					{{ item.title }}
+				</a>
+			</div>
+		</li>
+	</ul>
+	{% endfor %}
 	{% endfor %}
 
 </section>
