@@ -8,6 +8,8 @@ author: Christoph Becker
 ---
 
 
+At the one day conference titled "Belgium Environmental Economics Day", which was organised by the VUB in Brussels/Belgium, I held a presentation titled "Addressing Uncertainties in Plastic Flows".
+
 The three day conference titled "[From Internet Governance to Digital Political Economy](https://www.internetgovernance.org/events/from-internet-governance-to-digital-political-economy/)" was organised
 by the Internet Governance Project ([IGP](https://www.internetgovernance.org/))in The Hague.
 
@@ -20,4 +22,4 @@ I presented my work titled "Meeting Waste Management Targets: Towards a Monitori
 > 
 > Our indicator framework advances previous efforts, by taking an evidence-based, more holistic approach that captures and involves all relevant aspects and parties through the Bellagio principles. Furthermore, we uncover higher-order signals within the set of indicators by using a novel methodology based on state-of-the-art data analytics. The framework presents clear visuals that are easy to interpret for policymakers.
 
-> Slides are [here](/assets/talks/talks_ISWA_2024.pdf).
+> Slides are [here](/assets/talks/talks_BEED25.pdf).
