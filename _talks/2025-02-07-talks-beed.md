@@ -1,5 +1,5 @@
 ---
-title: ISWA World Congress '24
+title: Belgium Environmental Economics Day 2025
 type: talks
 date: 2025-02-07
 imageurl: /assets/
