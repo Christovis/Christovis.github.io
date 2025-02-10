@@ -8,11 +8,7 @@ author: Christoph Becker
 ---
 
 
-The one day conference titled "Belgium Environmental Economics Day" was organised
-by the VUB in Brussels, Belgium.
-
- - Addressing Uncertainties in Plastic Flows
-
+At the one day conference titled "Belgium Environmental Economics Day", which was organised by the VUB in Brussels/Belgium, I held a presentation titled "Addressing Uncertainties in Plastic Flows".
 
 > Slides are [here](/assets/talks/talks_BEED25.pdf).
 
